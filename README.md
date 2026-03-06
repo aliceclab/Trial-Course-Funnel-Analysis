@@ -18,7 +18,7 @@
 
 ### Page 1: Funnel Overview
 [cite_start]Focuses on overall health and identifying where the largest numeric loss occurs[cite: 270].
-![Funnel Overview](Screenshots/Page1.png)
+![Funnel Overview](Screenshot 2026-01-30.png)
 
 ### Page 2: Acquisition Analysis
 [cite_start]Compares channel traffic volume against conversion quality[cite: 278, 279].
