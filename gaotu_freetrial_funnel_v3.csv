@@ -1,0 +1,1001 @@
+User_ID,Age_Group,Source_Channel,User_Device,Video_Completion_Rate,Watch_Duration_Mins,Is_Speed_Watching,Drop_off_Point,Registration_Status,Lead_Score,Consultation_Booked,Enrollment_Status,NPS_Score,Feedback_Keywords
+U000001,35-44,Douyin (TikTok China),iOS,0.64,12.8,No,Middle,Registered,85,Yes,Not Paid,10,"Too Expensive, Not Enough Examples, Instructor Boring"
+U000002,35-44,WeChat Moments (朋友圈),Android,0.73,14.5,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Easy to Follow, Clear Structure"
+U000003,25-34,Douyin (TikTok China),iOS,0.69,13.7,No,Middle,Registered,88,Yes,Not Paid,5,Instructor Boring
+U000004,18-24,Douyin (TikTok China),iOS,0.45,9.0,No,Middle,Visitor,55,No,Not Paid,4,Instructor Boring
+U000005,18-24,Douyin (TikTok China),iOS,0.86,17.3,Yes,End,Registered,94,Yes,Not Paid,6,"Sales Too Pushy, Pace Too Fast"
+U000006,25-34,Douyin (TikTok China),iOS,0.35,6.9,No,Intro,Visitor,49,No,Not Paid,7,"Pace Too Fast, Sales Too Pushy"
+U000007,25-34,WeChat Channels (视频号),Android,0.98,19.6,No,End,Registered,100,Yes,Paid,8,"Good Audio, Clear Structure"
+U000008,35-44,Douyin (TikTok China),iOS,0.84,16.8,No,Sales_Pitch,Registered,100,Yes,Paid,10,Clear Structure
+U000009,18-24,Douyin (TikTok China),Android,0.53,10.7,Yes,Middle,Visitor,55,No,Not Paid,9,"Hard to Follow, Content Too Basic, Too Expensive"
+U000010,18-24,Douyin (TikTok China),iOS,0.44,8.8,No,Sales_Pitch,Visitor,54,No,Not Paid,4,"Sales Too Pushy, Too Expensive, Instructor Boring"
+U000011,25-34,WeChat Moments (朋友圈),PC,0.92,18.5,No,End,Registered,100,Yes,Paid,9,"Easy to Follow, Content Useful"
+U000012,25-34,Douyin (TikTok China),PC,0.5,10.0,Yes,Sales_Pitch,Visitor,54,No,Not Paid,7,"Content Too Basic, Not Enough Examples"
+U000013,25-34,WeChat Moments (朋友圈),iOS,0.87,17.4,Yes,End,Registered,100,Yes,Paid,9,"Content Useful, Clear Structure"
+U000014,45-54,Douyin (TikTok China),Android,0.57,11.4,No,Sales_Pitch,Registered,81,Yes,Not Paid,5,"Content Too Basic, Sales Too Pushy, Too Expensive"
+U000015,35-44,WeChat Moments (朋友圈),iOS,0.61,12.3,No,Middle,Registered,72,No,Not Paid,9,Not Enough Examples
+U000016,25-34,Douyin (TikTok China),Android,0.63,12.6,No,Middle,Registered,85,Yes,Not Paid,6,"Not Enough Examples, Pace Too Fast"
+U000017,25-34,Douyin (TikTok China),iOS,0.55,11.0,Yes,Middle,Registered,76,Yes,Not Paid,6,Pace Too Fast
+U000018,35-44,Douyin (TikTok China),iOS,0.73,14.5,No,Sales_Pitch,Registered,90,Yes,Not Paid,9,Sales Too Pushy
+U000019,35-44,Douyin (TikTok China),Android,0.86,17.1,No,Sales_Pitch,Registered,97,Yes,Not Paid,6,"Hard to Follow, Audio Bad, Content Too Basic"
+U000020,25-34,WeChat Channels (视频号),iOS,0.62,12.4,Yes,Middle,Registered,80,Yes,Not Paid,3,"Not Enough Examples, Pace Too Fast"
+U000021,35-44,WeChat Channels (视频号),iOS,0.96,19.2,No,End,Registered,100,Yes,Paid,8,Content Useful
+U000022,45-54,WeChat Moments (朋友圈),iOS,0.99,19.8,No,Sales_Pitch,Registered,100,Yes,Paid,7,"Good Instructor, Content Useful"
+U000023,25-34,Douyin (TikTok China),iOS,0.83,16.6,No,End,Registered,84,No,Not Paid,5,"Too Expensive, Need More Support"
+U000024,25-34,Douyin (TikTok China),PC,0.8,16.0,Yes,End,Registered,90,Yes,Not Paid,6,Not Enough Examples
+U000025,25-34,Douyin (TikTok China),PC,0.44,8.8,Yes,Sales_Pitch,Registered,70,Yes,Not Paid,7,Instructor Boring
+U000026,25-34,Douyin (TikTok China),iOS,0.69,13.8,Yes,Sales_Pitch,Registered,84,Yes,Not Paid,10,"Too Expensive, Content Too Basic"
+U000027,25-34,WeChat Channels (视频号),iOS,0.94,18.9,No,Sales_Pitch,Registered,100,Yes,Not Paid,4,"Audio Bad, Pace Too Fast"
+U000028,25-34,WeChat Moments (朋友圈),PC,0.53,10.6,No,Sales_Pitch,Registered,79,Yes,Not Paid,5,Pace Too Fast
+U000029,35-44,Douyin (TikTok China),iOS,0.8,15.9,No,Sales_Pitch,Registered,100,Yes,Paid,9,Want More Examples
+U000030,18-24,Douyin (TikTok China),iOS,0.69,13.8,No,Sales_Pitch,Registered,98,Yes,Paid,9,Want More Examples
+U000031,18-24,WeChat Channels (视频号),PC,0.6,11.9,Yes,Middle,Registered,67,No,Not Paid,4,"Audio Bad, Hard to Follow"
+U000032,35-44,WeChat Channels (视频号),PC,0.94,18.7,Yes,End,Registered,97,Yes,Not Paid,3,Hard to Follow
+U000033,45-54,WeChat Channels (视频号),PC,0.47,9.3,No,Sales_Pitch,Visitor,56,No,Not Paid,4,"Pace Too Fast, Sales Too Pushy, Not Enough Examples"
+U000034,35-44,Douyin (TikTok China),PC,0.62,12.4,Yes,Sales_Pitch,Registered,68,No,Not Paid,5,Content Too Basic
+U000035,35-44,Douyin (TikTok China),iOS,0.64,12.8,Yes,Middle,Registered,91,Yes,Paid,8,Good Instructor
+U000036,18-24,WeChat Channels (视频号),iOS,0.99,19.7,No,Sales_Pitch,Registered,100,Yes,Not Paid,6,Sales Too Pushy
+U000037,35-44,Douyin (TikTok China),iOS,0.23,4.6,Yes,Intro,Registered,59,Yes,Not Paid,5,"Too Expensive, Pace Too Fast"
+U000038,18-24,WeChat Channels (视频号),iOS,0.81,16.2,No,End,Registered,95,Yes,Not Paid,4,"Pace Too Fast, Sales Too Pushy"
+U000039,25-34,WeChat Channels (视频号),Android,0.53,10.6,No,Sales_Pitch,Registered,67,No,Not Paid,6,Too Expensive
+U000040,25-34,WeChat Channels (视频号),Android,0.9,18.0,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Want More Examples, Easy to Follow"
+U000041,18-24,Douyin (TikTok China),Android,0.77,15.4,No,End,Registered,100,Yes,Paid,10,Practical Tips
+U000042,18-24,Douyin (TikTok China),Android,0.51,10.3,No,Middle,Registered,66,No,Not Paid,5,Need More Support
+U000043,35-44,Douyin (TikTok China),Android,0.28,5.5,No,Intro,Visitor,45,No,Not Paid,9,Instructor Boring
+U000044,18-24,WeChat Channels (视频号),Android,0.99,19.8,No,End,Registered,100,Yes,Not Paid,10,Pace Too Fast
+U000045,35-44,Douyin (TikTok China),Android,0.56,11.3,Yes,Sales_Pitch,Registered,87,Yes,Paid,8,"Want More Examples, Good Instructor"
+U000046,35-44,Douyin (TikTok China),Android,0.56,11.1,No,Middle,Registered,69,No,Not Paid,5,Too Expensive
+U000047,25-34,WeChat Channels (视频号),iOS,0.7,13.9,No,Sales_Pitch,Registered,88,Yes,Not Paid,8,"Sales Too Pushy, Instructor Boring"
+U000048,25-34,WeChat Channels (视频号),PC,0.7,13.9,No,Middle,Registered,88,Yes,Not Paid,3,Not Enough Examples
+U000049,25-34,WeChat Channels (视频号),PC,0.86,17.2,No,Sales_Pitch,Registered,100,Yes,Paid,8,Practical Tips
+U000050,25-34,Douyin (TikTok China),iOS,0.95,19.0,Yes,End,Registered,98,Yes,Not Paid,8,Too Expensive
+U000051,45-54,WeChat Moments (朋友圈),Android,0.92,18.3,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,Content Useful
+U000052,25-34,Douyin (TikTok China),iOS,0.31,6.2,No,Intro,Visitor,47,No,Not Paid,5,"Sales Too Pushy, Content Too Basic, Pace Too Fast"
+U000053,35-44,Douyin (TikTok China),Android,0.76,15.3,Yes,End,Registered,88,Yes,Not Paid,6,Too Expensive
+U000054,25-34,Douyin (TikTok China),Android,0.82,16.5,No,Sales_Pitch,Registered,95,Yes,Not Paid,4,Too Expensive
+U000055,45-54,WeChat Channels (视频号),PC,0.85,17.0,No,End,Registered,97,Yes,Not Paid,6,Pace Too Fast
+U000056,35-44,WeChat Channels (视频号),Android,0.3,6.1,No,Middle,Registered,77,Yes,Paid,10,"Clear Structure, Practical Tips"
+U000057,25-34,Douyin (TikTok China),Android,0.6,11.9,Yes,Middle,Registered,89,Yes,Paid,8,Clear Structure
+U000058,25-34,Douyin (TikTok China),Android,0.42,8.4,No,Middle,Registered,73,Yes,Not Paid,3,Pace Too Fast
+U000059,25-34,Douyin (TikTok China),PC,0.21,4.2,No,Intro,Visitor,41,No,Not Paid,8,"Too Expensive, Instructor Boring"
+U000060,25-34,WeChat Channels (视频号),Android,0.32,6.5,Yes,Intro,Registered,64,Yes,Not Paid,10,Need More Support
+U000061,35-44,WeChat Moments (朋友圈),Android,0.97,19.3,No,End,Registered,100,Yes,Paid,8,"Clear Structure, Easy to Follow"
+U000062,35-44,Douyin (TikTok China),Android,0.67,13.4,Yes,Middle,Visitor,63,No,Not Paid,5,"Audio Bad, Instructor Boring"
+U000063,25-34,WeChat Channels (视频号),iOS,0.99,19.8,Yes,End,Registered,100,Yes,Paid,9,"Good Audio, Practical Tips"
+U000064,35-44,Douyin (TikTok China),Android,0.94,18.8,Yes,Sales_Pitch,Registered,100,Yes,Paid,8,Clear Structure
+U000065,25-34,WeChat Channels (视频号),PC,0.91,18.3,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Easy to Follow, Practical Tips"
+U000066,25-34,WeChat Moments (朋友圈),PC,0.3,5.9,No,Intro,Visitor,46,No,Not Paid,3,"Need More Support, Content Too Basic"
+U000067,18-24,Douyin (TikTok China),iOS,0.68,13.6,Yes,Sales_Pitch,Registered,93,Yes,Paid,10,"Want More Examples, Good Audio"
+U000068,25-34,WeChat Channels (视频号),iOS,0.48,9.6,Yes,Sales_Pitch,Registered,60,No,Not Paid,5,Too Expensive
+U000069,25-34,Douyin (TikTok China),iOS,0.92,18.3,No,End,Registered,100,Yes,Paid,10,Content Useful
+U000070,25-34,Douyin (TikTok China),Android,0.55,11.1,Yes,Middle,Registered,64,No,Not Paid,6,Content Too Basic
+U000071,25-34,WeChat Channels (视频号),Android,0.41,8.2,Yes,Middle,Registered,57,No,Not Paid,2,"Pace Too Fast, Content Too Basic, Need More Support"
+U000072,25-34,Douyin (TikTok China),iOS,0.98,19.7,Yes,End,Registered,100,Yes,Not Paid,5,"Instructor Boring, Not Enough Examples, Audio Bad"
+U000073,35-44,Douyin (TikTok China),iOS,0.73,14.6,Yes,End,Registered,86,Yes,Not Paid,7,"Sales Too Pushy, Content Too Basic, Hard to Follow"
+U000074,35-44,Douyin (TikTok China),Android,0.37,7.3,Yes,Sales_Pitch,Registered,54,No,Not Paid,6,"Pace Too Fast, Too Expensive"
+U000075,25-34,WeChat Channels (视频号),iOS,0.85,17.0,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Clear Structure, Content Useful"
+U000076,25-34,Douyin (TikTok China),PC,0.48,9.5,Yes,Middle,Registered,72,Yes,Not Paid,7,"Pace Too Fast, Need More Support, Content Too Basic"
+U000077,25-34,WeChat Channels (视频号),Android,0.92,18.4,No,End,Registered,100,Yes,Not Paid,3,"Hard to Follow, Sales Too Pushy, Not Enough Examples"
+U000078,35-44,Douyin (TikTok China),PC,0.81,16.1,No,Sales_Pitch,Registered,94,Yes,Not Paid,8,"Pace Too Fast, Instructor Boring"
+U000079,45-54,Douyin (TikTok China),Android,0.7,14.0,Yes,End,Registered,85,Yes,Not Paid,9,Pace Too Fast
+U000080,25-34,WeChat Moments (朋友圈),PC,0.45,9.1,No,Middle,Registered,63,No,Not Paid,5,"Need More Support, Not Enough Examples, Instructor Boring"
+U000081,18-24,WeChat Moments (朋友圈),Android,0.88,17.6,No,End,Registered,100,Yes,Paid,9,"Clear Structure, Content Useful"
+U000082,25-34,Douyin (TikTok China),Android,0.82,16.4,No,End,Registered,83,No,Not Paid,6,"Instructor Boring, Need More Support"
+U000083,35-44,Douyin (TikTok China),Android,0.57,11.3,No,Middle,Visitor,61,No,Not Paid,7,"Sales Too Pushy, Content Too Basic"
+U000084,18-24,Douyin (TikTok China),iOS,0.97,19.4,Yes,End,Registered,100,Yes,Paid,9,Good Audio
+U000085,35-44,WeChat Channels (视频号),PC,0.74,14.8,Yes,End,Registered,97,Yes,Paid,9,Good Audio
+U000086,35-44,Douyin (TikTok China),Android,0.84,16.8,No,Sales_Pitch,Registered,100,Yes,Paid,8,Easy to Follow
+U000087,18-24,WeChat Moments (朋友圈),iOS,0.54,10.8,Yes,Sales_Pitch,Visitor,56,No,Not Paid,6,Too Expensive
+U000088,35-44,WeChat Channels (视频号),iOS,0.71,14.1,No,End,Registered,89,Yes,Not Paid,5,"Too Expensive, Instructor Boring"
+U000089,35-44,WeChat Channels (视频号),Android,0.8,16.0,No,End,Registered,100,Yes,Paid,9,"Good Audio, Clear Structure"
+U000090,25-34,WeChat Channels (视频号),PC,0.77,15.5,Yes,Sales_Pitch,Registered,77,No,Not Paid,8,"Not Enough Examples, Too Expensive, Hard to Follow"
+U000091,45-54,WeChat Moments (朋友圈),iOS,0.47,9.4,No,Middle,Visitor,56,No,Not Paid,7,"Not Enough Examples, Need More Support"
+U000092,45-54,WeChat Channels (视频号),Android,0.41,8.2,No,Sales_Pitch,Registered,83,Yes,Paid,9,Practical Tips
+U000093,35-44,WeChat Channels (视频号),PC,0.77,15.5,No,Sales_Pitch,Registered,93,Yes,Not Paid,8,"Hard to Follow, Audio Bad"
+U000094,18-24,WeChat Moments (朋友圈),Android,0.97,19.4,No,End,Registered,100,Yes,Paid,9,"Clear Structure, Easy to Follow"
+U000095,35-44,Douyin (TikTok China),Android,0.66,13.2,No,Sales_Pitch,Registered,86,Yes,Not Paid,6,"Too Expensive, Content Too Basic"
+U000096,35-44,Douyin (TikTok China),PC,0.49,9.8,Yes,Sales_Pitch,Visitor,53,No,Not Paid,8,"Content Too Basic, Sales Too Pushy"
+U000097,35-44,Douyin (TikTok China),Android,0.47,9.4,Yes,Middle,Registered,60,No,Not Paid,7,Content Too Basic
+U000098,25-34,WeChat Moments (朋友圈),Android,0.8,15.9,No,End,Registered,94,Yes,Not Paid,4,"Not Enough Examples, Audio Bad"
+U000099,25-34,WeChat Channels (视频号),iOS,0.7,14.0,No,Sales_Pitch,Registered,88,Yes,Not Paid,4,"Pace Too Fast, Instructor Boring"
+U000100,35-44,WeChat Channels (视频号),Android,0.61,12.3,No,Middle,Registered,84,Yes,Not Paid,6,"Content Too Basic, Audio Bad, Too Expensive"
+U000101,25-34,WeChat Channels (视频号),PC,0.99,19.8,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Want More Examples, Good Audio"
+U000102,18-24,WeChat Moments (朋友圈),Android,0.9,18.0,Yes,End,Registered,96,Yes,Not Paid,5,"Hard to Follow, Need More Support"
+U000103,18-24,WeChat Moments (朋友圈),iOS,0.94,18.8,No,End,Registered,100,Yes,Not Paid,6,"Sales Too Pushy, Content Too Basic, Instructor Boring"
+U000104,25-34,WeChat Moments (朋友圈),PC,0.77,15.4,No,End,Registered,100,Yes,Paid,8,Good Instructor
+U000105,25-34,Douyin (TikTok China),iOS,0.94,18.7,No,Sales_Pitch,Registered,100,Yes,Paid,10,Easy to Follow
+U000106,25-34,Douyin (TikTok China),iOS,0.93,18.6,No,End,Registered,89,No,Not Paid,7,"Audio Bad, Content Too Basic, Too Expensive"
+U000107,18-24,Douyin (TikTok China),Android,0.31,6.3,Yes,Intro,Visitor,43,No,Not Paid,8,Too Expensive
+U000108,18-24,WeChat Channels (视频号),Android,0.45,9.0,Yes,Middle,Visitor,51,No,Not Paid,6,"Sales Too Pushy, Not Enough Examples, Hard to Follow"
+U000109,35-44,Douyin (TikTok China),Android,0.9,17.9,No,End,Registered,99,Yes,Not Paid,6,Instructor Boring
+U000110,35-44,WeChat Channels (视频号),iOS,0.9,18.0,No,End,Registered,88,No,Not Paid,7,"Too Expensive, Pace Too Fast"
+U000111,35-44,Douyin (TikTok China),Android,0.44,8.8,Yes,Middle,Visitor,50,No,Not Paid,5,"Pace Too Fast, Instructor Boring, Sales Too Pushy"
+U000112,45-54,Douyin (TikTok China),iOS,0.67,13.4,No,Middle,Registered,97,Yes,Paid,9,Want More Examples
+U000113,25-34,Douyin (TikTok China),Android,0.68,13.6,No,Middle,Registered,87,Yes,Not Paid,7,"Audio Bad, Need More Support, Too Expensive"
+U000114,45-54,WeChat Moments (朋友圈),iOS,0.99,19.8,Yes,End,Registered,100,Yes,Paid,8,Easy to Follow
+U000115,25-34,WeChat Moments (朋友圈),iOS,0.69,13.8,Yes,Sales_Pitch,Registered,94,Yes,Paid,10,Practical Tips
+U000116,45-54,WeChat Channels (视频号),PC,0.68,13.5,Yes,Middle,Registered,83,Yes,Not Paid,5,Not Enough Examples
+U000117,35-44,Douyin (TikTok China),iOS,0.84,16.8,Yes,End,Registered,100,Yes,Paid,9,"Good Instructor, Good Audio"
+U000118,25-34,Douyin (TikTok China),iOS,0.84,16.9,Yes,End,Registered,80,No,Not Paid,10,"Too Expensive, Pace Too Fast"
+U000119,25-34,Douyin (TikTok China),Android,0.45,9.0,Yes,Middle,Registered,71,Yes,Not Paid,3,"Sales Too Pushy, Not Enough Examples"
+U000120,25-34,WeChat Channels (视频号),iOS,0.53,10.5,Yes,Middle,Visitor,55,No,Not Paid,2,"Sales Too Pushy, Audio Bad, Content Too Basic"
+U000121,45-54,Douyin (TikTok China),PC,0.84,16.8,No,End,Registered,96,Yes,Not Paid,7,Audio Bad
+U000122,25-34,WeChat Channels (视频号),iOS,0.53,10.7,Yes,Middle,Registered,75,Yes,Not Paid,7,"Instructor Boring, Hard to Follow, Not Enough Examples"
+U000123,45-54,Douyin (TikTok China),iOS,0.63,12.7,Yes,Middle,Registered,91,Yes,Paid,10,Easy to Follow
+U000124,35-44,WeChat Channels (视频号),Android,0.63,12.5,No,Middle,Registered,94,Yes,Paid,8,Want More Examples
+U000125,25-34,WeChat Moments (朋友圈),Android,0.86,17.1,No,End,Registered,85,No,Not Paid,3,Need More Support
+U000126,25-34,WeChat Channels (视频号),PC,0.67,13.4,No,Middle,Registered,87,Yes,Not Paid,5,Audio Bad
+U000127,25-34,Douyin (TikTok China),Android,0.78,15.6,No,End,Registered,81,No,Not Paid,6,"Too Expensive, Instructor Boring, Sales Too Pushy"
+U000128,25-34,WeChat Channels (视频号),Android,0.74,14.9,No,End,Registered,91,Yes,Not Paid,8,"Audio Bad, Not Enough Examples, Pace Too Fast"
+U000129,25-34,WeChat Channels (视频号),Android,0.53,10.7,Yes,Sales_Pitch,Visitor,55,No,Not Paid,9,"Hard to Follow, Audio Bad"
+U000130,25-34,Douyin (TikTok China),Android,0.42,8.4,No,Sales_Pitch,Registered,73,Yes,Not Paid,5,Hard to Follow
+U000131,35-44,Douyin (TikTok China),Android,0.67,13.4,No,Middle,Registered,87,Yes,Not Paid,7,"Too Expensive, Not Enough Examples"
+U000132,35-44,Douyin (TikTok China),iOS,0.93,18.6,Yes,End,Registered,97,Yes,Not Paid,5,"Too Expensive, Sales Too Pushy, Hard to Follow"
+U000133,25-34,Douyin (TikTok China),Android,0.64,12.8,No,Middle,Registered,95,Yes,Paid,8,Want More Examples
+U000134,35-44,Douyin (TikTok China),iOS,0.73,14.7,No,Sales_Pitch,Visitor,70,No,Not Paid,5,Too Expensive
+U000135,18-24,Douyin (TikTok China),Android,0.59,11.8,No,Middle,Registered,82,Yes,Not Paid,6,"Pace Too Fast, Audio Bad, Sales Too Pushy"
+U000136,35-44,Douyin (TikTok China),Android,0.39,7.8,No,Middle,Registered,60,No,Not Paid,6,"Content Too Basic, Sales Too Pushy"
+U000137,25-34,Douyin (TikTok China),Android,0.98,19.7,No,End,Registered,100,Yes,Not Paid,8,"Audio Bad, Need More Support"
+U000138,35-44,Douyin (TikTok China),iOS,0.59,11.8,No,Sales_Pitch,Visitor,62,No,Not Paid,4,"Sales Too Pushy, Need More Support, Pace Too Fast"
+U000139,35-44,Douyin (TikTok China),Android,0.69,13.8,No,Middle,Registered,88,Yes,Not Paid,6,"Content Too Basic, Too Expensive, Sales Too Pushy"
+U000140,18-24,Douyin (TikTok China),iOS,0.44,8.7,No,Middle,Registered,62,No,Not Paid,6,"Sales Too Pushy, Audio Bad, Content Too Basic"
+U000141,18-24,WeChat Moments (朋友圈),iOS,0.65,12.9,Yes,Middle,Registered,70,No,Not Paid,3,Need More Support
+U000142,25-34,WeChat Channels (视频号),iOS,0.88,17.5,No,Sales_Pitch,Registered,98,Yes,Not Paid,8,Audio Bad
+U000143,35-44,WeChat Channels (视频号),Android,0.94,18.8,No,End,Registered,100,Yes,Paid,10,"Easy to Follow, Practical Tips"
+U000144,25-34,Douyin (TikTok China),PC,0.61,12.2,No,Sales_Pitch,Registered,72,No,Not Paid,7,"Instructor Boring, Need More Support, Sales Too Pushy"
+U000145,25-34,Douyin (TikTok China),Android,0.86,17.1,Yes,End,Registered,100,Yes,Paid,8,"Content Useful, Easy to Follow"
+U000146,35-44,WeChat Channels (视频号),Android,0.78,15.6,No,End,Registered,100,Yes,Paid,9,Want More Examples
+U000147,35-44,Douyin (TikTok China),iOS,0.91,18.1,No,Sales_Pitch,Registered,88,No,Not Paid,7,"Sales Too Pushy, Content Too Basic"
+U000148,25-34,Douyin (TikTok China),Android,0.7,14.0,Yes,Sales_Pitch,Registered,85,Yes,Not Paid,5,"Not Enough Examples, Content Too Basic"
+U000149,25-34,WeChat Channels (视频号),PC,0.71,14.1,Yes,End,Registered,85,Yes,Not Paid,5,"Content Too Basic, Not Enough Examples"
+U000150,18-24,WeChat Channels (视频号),Android,0.72,14.3,Yes,End,Visitor,65,No,Not Paid,9,Pace Too Fast
+U000151,25-34,WeChat Channels (视频号),Android,0.76,15.1,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Good Audio, Practical Tips"
+U000152,18-24,WeChat Moments (朋友圈),Android,0.77,15.3,No,End,Registered,92,Yes,Not Paid,3,Pace Too Fast
+U000153,18-24,WeChat Channels (视频号),Android,0.92,18.5,Yes,End,Registered,85,No,Not Paid,2,"Hard to Follow, Instructor Boring"
+U000154,25-34,Douyin (TikTok China),Android,0.7,13.9,No,Middle,Registered,76,No,Not Paid,6,Sales Too Pushy
+U000155,25-34,WeChat Moments (朋友圈),iOS,0.88,17.6,No,End,Registered,99,Yes,Not Paid,6,"Not Enough Examples, Too Expensive"
+U000156,35-44,WeChat Moments (朋友圈),PC,0.95,19.1,Yes,Sales_Pitch,Registered,100,Yes,Paid,9,Easy to Follow
+U000157,18-24,WeChat Moments (朋友圈),PC,0.57,11.3,Yes,Middle,Registered,65,No,Not Paid,6,Audio Bad
+U000158,45-54,Douyin (TikTok China),iOS,0.5,9.9,No,Middle,Visitor,57,No,Not Paid,7,"Sales Too Pushy, Pace Too Fast, Too Expensive"
+U000159,35-44,Douyin (TikTok China),Android,0.81,16.2,Yes,Sales_Pitch,Visitor,71,No,Not Paid,9,"Pace Too Fast, Sales Too Pushy, Hard to Follow"
+U000160,18-24,Douyin (TikTok China),iOS,0.79,15.7,Yes,End,Registered,89,Yes,Not Paid,7,"Sales Too Pushy, Instructor Boring, Hard to Follow"
+U000161,18-24,WeChat Channels (视频号),PC,0.77,15.5,No,End,Registered,93,Yes,Not Paid,6,Too Expensive
+U000162,35-44,WeChat Channels (视频号),Android,0.87,17.4,No,Sales_Pitch,Registered,100,Yes,Paid,10,Easy to Follow
+U000163,25-34,WeChat Moments (朋友圈),iOS,0.94,18.9,Yes,Sales_Pitch,Registered,100,Yes,Paid,9,"Good Instructor, Clear Structure"
+U000164,35-44,WeChat Channels (视频号),iOS,0.81,16.2,No,End,Registered,94,Yes,Not Paid,4,"Too Expensive, Need More Support"
+U000165,25-34,WeChat Channels (视频号),iOS,0.93,18.5,Yes,End,Registered,97,Yes,Not Paid,7,"Pace Too Fast, Not Enough Examples, Sales Too Pushy"
+U000166,35-44,Douyin (TikTok China),Android,0.78,15.6,No,Sales_Pitch,Registered,93,Yes,Not Paid,6,"Too Expensive, Hard to Follow"
+U000167,25-34,Douyin (TikTok China),Android,0.39,7.8,Yes,Sales_Pitch,Visitor,47,No,Not Paid,9,"Pace Too Fast, Not Enough Examples, Too Expensive"
+U000168,45-54,WeChat Moments (朋友圈),Android,0.95,19.0,No,End,Registered,90,No,Not Paid,7,"Need More Support, Not Enough Examples, Audio Bad"
+U000169,25-34,Douyin (TikTok China),Android,0.49,9.8,Yes,Middle,Visitor,53,No,Not Paid,2,"Pace Too Fast, Hard to Follow, Sales Too Pushy"
+U000170,18-24,Douyin (TikTok China),PC,0.74,14.8,No,End,Registered,91,Yes,Not Paid,5,"Sales Too Pushy, Pace Too Fast"
+U000171,35-44,Douyin (TikTok China),Android,0.49,9.9,Yes,Middle,Registered,61,No,Not Paid,8,Not Enough Examples
+U000172,35-44,WeChat Channels (视频号),PC,0.6,12.1,No,Sales_Pitch,Registered,83,Yes,Not Paid,5,"Need More Support, Hard to Follow"
+U000173,35-44,WeChat Moments (朋友圈),Android,0.91,18.2,No,End,Registered,100,Yes,Not Paid,7,"Not Enough Examples, Sales Too Pushy"
+U000174,45-54,WeChat Channels (视频号),Android,0.67,13.3,No,Middle,Visitor,67,No,Not Paid,6,Audio Bad
+U000175,25-34,Douyin (TikTok China),PC,0.93,18.6,Yes,End,Registered,85,No,Not Paid,6,Too Expensive
+U000176,45-54,Douyin (TikTok China),Android,0.28,5.5,No,Middle,Visitor,45,No,Not Paid,8,"Too Expensive, Content Too Basic, Not Enough Examples"
+U000177,25-34,Douyin (TikTok China),iOS,0.56,11.2,Yes,Middle,Registered,77,Yes,Not Paid,7,"Content Too Basic, Hard to Follow"
+U000178,35-44,Douyin (TikTok China),iOS,0.4,8.1,No,Sales_Pitch,Visitor,52,No,Not Paid,6,"Content Too Basic, Audio Bad"
+U000179,25-34,WeChat Channels (视频号),Android,0.71,14.2,No,End,Registered,99,Yes,Paid,10,Practical Tips
+U000180,45-54,WeChat Channels (视频号),iOS,0.64,12.8,Yes,Middle,Registered,91,Yes,Paid,7,Good Instructor
+U000181,25-34,WeChat Channels (视频号),Android,0.58,11.6,No,Middle,Registered,82,Yes,Not Paid,6,Audio Bad
+U000182,18-24,Douyin (TikTok China),Android,0.79,15.8,Yes,End,Registered,78,No,Not Paid,5,"Sales Too Pushy, Not Enough Examples, Content Too Basic"
+U000183,25-34,WeChat Moments (朋友圈),Android,0.99,19.8,No,End,Registered,100,Yes,Paid,7,"Practical Tips, Good Instructor"
+U000184,25-34,Douyin (TikTok China),PC,0.8,16.0,No,Sales_Pitch,Visitor,74,No,Not Paid,7,"Sales Too Pushy, Not Enough Examples, Content Too Basic"
+U000185,35-44,Douyin (TikTok China),PC,0.78,15.6,No,End,Registered,93,Yes,Not Paid,1,Sales Too Pushy
+U000186,25-34,Douyin (TikTok China),PC,0.53,10.7,No,Sales_Pitch,Registered,79,Yes,Not Paid,2,"Not Enough Examples, Content Too Basic, Audio Bad"
+U000187,25-34,Douyin (TikTok China),PC,0.67,13.4,No,Sales_Pitch,Visitor,67,No,Not Paid,3,"Instructor Boring, Need More Support, Too Expensive"
+U000188,25-34,Douyin (TikTok China),Android,0.36,7.2,No,Middle,Registered,70,Yes,Not Paid,3,"Pace Too Fast, Instructor Boring"
+U000189,18-24,Douyin (TikTok China),iOS,0.38,7.6,No,Middle,Registered,59,No,Not Paid,5,Audio Bad
+U000190,35-44,Douyin (TikTok China),iOS,0.36,7.3,No,Sales_Pitch,Visitor,50,No,Not Paid,2,Not Enough Examples
+U000191,45-54,Douyin (TikTok China),Android,0.51,10.1,Yes,Middle,Registered,74,Yes,Not Paid,5,Need More Support
+U000192,35-44,Douyin (TikTok China),Android,0.57,11.5,No,Middle,Registered,82,Yes,Not Paid,9,Content Too Basic
+U000193,35-44,Douyin (TikTok China),iOS,0.69,13.8,Yes,Middle,Registered,84,Yes,Not Paid,5,"Pace Too Fast, Hard to Follow"
+U000194,25-34,WeChat Moments (朋友圈),PC,0.92,18.3,No,End,Registered,100,Yes,Not Paid,7,Instructor Boring
+U000195,18-24,WeChat Channels (视频号),Android,0.52,10.4,Yes,Middle,Visitor,54,No,Not Paid,6,Content Too Basic
+U000196,18-24,WeChat Channels (视频号),iOS,0.9,17.9,Yes,End,Registered,95,Yes,Not Paid,8,Too Expensive
+U000197,25-34,Douyin (TikTok China),Android,0.7,14.0,Yes,Middle,Registered,84,Yes,Not Paid,4,"Pace Too Fast, Not Enough Examples, Audio Bad"
+U000198,35-44,WeChat Channels (视频号),PC,0.91,18.3,Yes,End,Registered,100,Yes,Paid,9,"Clear Structure, Practical Tips"
+U000199,25-34,Douyin (TikTok China),Android,0.79,15.9,Yes,End,Registered,100,Yes,Paid,10,Want More Examples
+U000200,35-44,Douyin (TikTok China),Android,0.74,14.8,Yes,End,Registered,75,No,Not Paid,8,"Not Enough Examples, Hard to Follow, Too Expensive"
+U000201,18-24,WeChat Channels (视频号),Android,0.85,17.0,Yes,End,Registered,93,Yes,Not Paid,1,"Hard to Follow, Sales Too Pushy"
+U000202,18-24,Douyin (TikTok China),iOS,0.62,12.5,Yes,Sales_Pitch,Registered,68,No,Not Paid,7,"Hard to Follow, Sales Too Pushy"
+U000203,25-34,WeChat Channels (视频号),iOS,0.77,15.3,Yes,Sales_Pitch,Registered,98,Yes,Paid,8,"Clear Structure, Good Audio"
+U000204,18-24,Douyin (TikTok China),Android,0.91,18.3,No,End,Registered,100,Yes,Not Paid,7,"Sales Too Pushy, Content Too Basic, Not Enough Examples"
+U000205,25-34,Douyin (TikTok China),PC,0.46,9.3,No,Sales_Pitch,Registered,75,Yes,Not Paid,5,"Too Expensive, Hard to Follow"
+U000206,25-34,WeChat Moments (朋友圈),PC,0.32,6.3,No,Intro,Registered,67,Yes,Not Paid,8,"Audio Bad, Content Too Basic"
+U000207,35-44,Douyin (TikTok China),iOS,0.28,5.7,Yes,Intro,Registered,50,No,Not Paid,7,"Too Expensive, Not Enough Examples"
+U000208,25-34,Douyin (TikTok China),Android,0.71,14.1,No,End,Registered,89,Yes,Not Paid,7,"Not Enough Examples, Too Expensive, Content Too Basic"
+U000209,35-44,WeChat Channels (视频号),Android,0.96,19.2,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,"Content Too Basic, Need More Support, Sales Too Pushy"
+U000210,35-44,WeChat Channels (视频号),Android,0.7,14.0,Yes,Middle,Registered,72,No,Not Paid,4,"Hard to Follow, Need More Support, Sales Too Pushy"
+U000211,45-54,Douyin (TikTok China),Android,0.66,13.2,Yes,Sales_Pitch,Registered,82,Yes,Not Paid,4,"Content Too Basic, Audio Bad"
+U000212,45-54,WeChat Moments (朋友圈),Android,0.87,17.5,No,End,Registered,100,Yes,Paid,10,Good Instructor
+U000213,45-54,WeChat Moments (朋友圈),Android,0.85,17.0,No,Sales_Pitch,Registered,97,Yes,Not Paid,8,"Too Expensive, Not Enough Examples"
+U000214,35-44,Douyin (TikTok China),Android,0.71,14.1,Yes,End,Registered,85,Yes,Not Paid,8,Too Expensive
+U000215,25-34,WeChat Channels (视频号),iOS,0.71,14.2,No,End,Registered,99,Yes,Paid,8,"Content Useful, Good Instructor"
+U000216,18-24,Douyin (TikTok China),iOS,0.78,15.5,Yes,End,Registered,99,Yes,Paid,10,"Good Audio, Content Useful"
+U000217,35-44,Douyin (TikTok China),Android,0.99,19.7,Yes,Sales_Pitch,Registered,100,Yes,Not Paid,9,"Sales Too Pushy, Audio Bad, Instructor Boring"
+U000218,18-24,WeChat Channels (视频号),Android,0.9,18.0,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,Good Audio
+U000219,25-34,WeChat Channels (视频号),Android,0.86,17.3,Yes,Sales_Pitch,Registered,94,Yes,Not Paid,5,"Need More Support, Pace Too Fast"
+U000220,25-34,WeChat Channels (视频号),iOS,0.71,14.2,No,End,Registered,89,Yes,Not Paid,6,"Too Expensive, Audio Bad, Content Too Basic"
+U000221,25-34,WeChat Channels (视频号),Android,0.65,13.0,No,Middle,Registered,86,Yes,Not Paid,6,"Sales Too Pushy, Hard to Follow, Too Expensive"
+U000222,35-44,Douyin (TikTok China),PC,0.89,17.8,Yes,End,Registered,100,Yes,Paid,9,"Easy to Follow, Content Useful"
+U000223,35-44,Douyin (TikTok China),Android,0.75,15.0,Yes,Sales_Pitch,Registered,87,Yes,Not Paid,2,Content Too Basic
+U000224,35-44,Douyin (TikTok China),iOS,0.54,10.9,No,Sales_Pitch,Registered,80,Yes,Not Paid,2,"Need More Support, Instructor Boring, Pace Too Fast"
+U000225,18-24,Douyin (TikTok China),Android,0.45,9.1,Yes,Sales_Pitch,Registered,71,Yes,Not Paid,5,"Too Expensive, Content Too Basic, Sales Too Pushy"
+U000226,18-24,Douyin (TikTok China),Android,0.85,16.9,No,End,Registered,85,No,Not Paid,7,Too Expensive
+U000227,45-54,WeChat Channels (视频号),iOS,0.67,13.4,Yes,Sales_Pitch,Visitor,63,No,Not Paid,5,Not Enough Examples
+U000228,25-34,WeChat Channels (视频号),iOS,0.37,7.4,No,Sales_Pitch,Registered,70,Yes,Not Paid,5,"Too Expensive, Hard to Follow, Content Too Basic"
+U000229,25-34,Douyin (TikTok China),Android,0.7,14.1,Yes,Sales_Pitch,Registered,95,Yes,Paid,10,Content Useful
+U000230,25-34,WeChat Moments (朋友圈),PC,0.49,9.8,No,Middle,Registered,87,Yes,Paid,10,"Good Audio, Good Instructor"
+U000231,25-34,Douyin (TikTok China),Android,0.54,10.8,Yes,Middle,Registered,76,Yes,Not Paid,4,"Audio Bad, Sales Too Pushy"
+U000232,35-44,WeChat Moments (朋友圈),iOS,0.91,18.3,No,End,Registered,100,Yes,Paid,9,Good Instructor
+U000233,35-44,WeChat Channels (视频号),iOS,0.88,17.5,Yes,End,Registered,94,Yes,Not Paid,3,"Not Enough Examples, Sales Too Pushy"
+U000234,35-44,WeChat Channels (视频号),PC,0.5,9.9,Yes,Sales_Pitch,Registered,73,Yes,Not Paid,5,"Sales Too Pushy, Hard to Follow, Pace Too Fast"
+U000235,25-34,WeChat Channels (视频号),PC,0.76,15.1,No,Sales_Pitch,Registered,92,Yes,Not Paid,7,"Too Expensive, Need More Support, Not Enough Examples"
+U000236,25-34,Douyin (TikTok China),Android,0.84,16.7,Yes,End,Registered,92,Yes,Not Paid,8,"Audio Bad, Need More Support, Not Enough Examples"
+U000237,18-24,WeChat Moments (朋友圈),iOS,0.45,9.0,No,Middle,Visitor,55,No,Not Paid,3,"Pace Too Fast, Too Expensive, Content Too Basic"
+U000238,18-24,WeChat Channels (视频号),Android,0.82,16.4,No,Sales_Pitch,Registered,95,Yes,Not Paid,7,Hard to Follow
+U000239,25-34,WeChat Moments (朋友圈),Android,0.83,16.6,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Good Audio, Clear Structure"
+U000240,25-34,WeChat Moments (朋友圈),iOS,0.81,16.2,No,Sales_Pitch,Registered,100,Yes,Paid,9,Clear Structure
+U000241,25-34,Douyin (TikTok China),iOS,0.86,17.1,Yes,End,Registered,100,Yes,Paid,10,Good Instructor
+U000242,25-34,Douyin (TikTok China),Android,0.22,4.3,No,Intro,Registered,50,No,Not Paid,6,"Sales Too Pushy, Content Too Basic"
+U000243,35-44,Douyin (TikTok China),iOS,0.74,14.7,No,Sales_Pitch,Visitor,70,No,Not Paid,5,Instructor Boring
+U000244,25-34,WeChat Channels (视频号),Android,0.61,12.2,Yes,Middle,Registered,80,Yes,Not Paid,7,"Content Too Basic, Need More Support, Pace Too Fast"
+U000245,35-44,Douyin (TikTok China),Android,0.65,13.1,Yes,Middle,Registered,82,Yes,Not Paid,5,"Hard to Follow, Too Expensive"
+U000246,25-34,WeChat Channels (视频号),iOS,0.66,13.2,Yes,Middle,Registered,82,Yes,Not Paid,6,Content Too Basic
+U000247,25-34,WeChat Moments (朋友圈),iOS,0.76,15.2,No,Sales_Pitch,Registered,100,Yes,Paid,8,Practical Tips
+U000248,25-34,WeChat Channels (视频号),Android,0.9,18.1,No,End,Registered,88,No,Not Paid,9,Audio Bad
+U000249,45-54,WeChat Channels (视频号),iOS,0.4,8.0,No,Middle,Visitor,52,No,Not Paid,7,"Pace Too Fast, Instructor Boring"
+U000250,18-24,Douyin (TikTok China),iOS,0.75,15.0,Yes,Sales_Pitch,Visitor,67,No,Not Paid,5,"Audio Bad, Instructor Boring, Hard to Follow"
+U000251,25-34,WeChat Moments (朋友圈),Android,0.96,19.2,No,End,Registered,100,Yes,Not Paid,10,Audio Bad
+U000252,18-24,Douyin (TikTok China),iOS,0.53,10.7,No,Sales_Pitch,Visitor,59,No,Not Paid,6,"Need More Support, Instructor Boring, Too Expensive"
+U000253,25-34,WeChat Channels (视频号),Android,0.77,15.5,Yes,Sales_Pitch,Registered,99,Yes,Paid,10,"Practical Tips, Easy to Follow"
+U000254,18-24,Douyin (TikTok China),Android,0.7,14.0,No,Middle,Visitor,68,No,Not Paid,5,Not Enough Examples
+U000255,25-34,WeChat Moments (朋友圈),iOS,0.91,18.1,No,End,Visitor,80,No,Not Paid,7,"Too Expensive, Content Too Basic"
+U000256,18-24,WeChat Moments (朋友圈),Android,0.88,17.7,No,Sales_Pitch,Registered,99,Yes,Not Paid,7,"Sales Too Pushy, Pace Too Fast, Instructor Boring"
+U000257,35-44,Douyin (TikTok China),Android,0.8,16.0,No,End,Registered,82,No,Not Paid,6,Sales Too Pushy
+U000258,25-34,Douyin (TikTok China),Android,0.65,13.0,No,Middle,Registered,96,Yes,Paid,9,Content Useful
+U000259,25-34,Douyin (TikTok China),iOS,0.67,13.4,Yes,Sales_Pitch,Visitor,63,No,Not Paid,5,"Content Too Basic, Too Expensive, Sales Too Pushy"
+U000260,18-24,Douyin (TikTok China),iOS,0.38,7.6,Yes,Sales_Pitch,Registered,77,Yes,Paid,9,Content Useful
+U000261,25-34,WeChat Channels (视频号),iOS,0.91,18.1,Yes,End,Registered,84,No,Not Paid,1,"Pace Too Fast, Hard to Follow, Sales Too Pushy"
+U000262,25-34,Douyin (TikTok China),iOS,0.84,16.9,Yes,End,Visitor,72,No,Not Paid,3,"Too Expensive, Hard to Follow, Content Too Basic"
+U000263,35-44,Douyin (TikTok China),Android,0.55,11.0,Yes,Middle,Visitor,56,No,Not Paid,4,"Not Enough Examples, Sales Too Pushy, Too Expensive"
+U000264,25-34,Douyin (TikTok China),iOS,0.68,13.5,Yes,Middle,Registered,71,No,Not Paid,7,"Not Enough Examples, Too Expensive"
+U000265,25-34,Douyin (TikTok China),iOS,0.86,17.2,Yes,End,Registered,93,Yes,Not Paid,6,"Sales Too Pushy, Too Expensive"
+U000266,35-44,WeChat Channels (视频号),Android,0.78,15.7,No,End,Visitor,73,No,Not Paid,7,"Sales Too Pushy, Too Expensive, Hard to Follow"
+U000267,35-44,WeChat Moments (朋友圈),Android,0.86,17.2,No,Sales_Pitch,Registered,97,Yes,Not Paid,5,"Not Enough Examples, Pace Too Fast, Too Expensive"
+U000268,45-54,WeChat Channels (视频号),iOS,0.51,10.1,No,Middle,Visitor,58,No,Not Paid,4,Sales Too Pushy
+U000269,25-34,Douyin (TikTok China),iOS,0.77,15.3,Yes,End,Registered,76,No,Not Paid,8,"Pace Too Fast, Hard to Follow, Audio Bad"
+U000270,25-34,WeChat Channels (视频号),Android,0.3,6.0,No,Intro,Registered,54,No,Not Paid,5,"Content Too Basic, Not Enough Examples, Too Expensive"
+U000271,25-34,Douyin (TikTok China),Android,0.21,4.3,No,Intro,Registered,62,Yes,Not Paid,7,Content Too Basic
+U000272,35-44,WeChat Channels (视频号),iOS,0.71,14.2,No,Sales_Pitch,Registered,99,Yes,Paid,8,"Practical Tips, Good Audio"
+U000273,35-44,Douyin (TikTok China),iOS,0.47,9.3,No,Middle,Visitor,56,No,Not Paid,4,Sales Too Pushy
+U000274,25-34,Douyin (TikTok China),Android,0.63,12.7,No,Sales_Pitch,Visitor,65,No,Not Paid,5,Sales Too Pushy
+U000275,35-44,WeChat Channels (视频号),PC,0.69,13.8,No,Sales_Pitch,Visitor,68,No,Not Paid,4,"Pace Too Fast, Audio Bad, Content Too Basic"
+U000276,25-34,Douyin (TikTok China),iOS,0.98,19.6,Yes,End,Registered,100,Yes,Not Paid,4,"Instructor Boring, Hard to Follow, Audio Bad"
+U000277,35-44,WeChat Moments (朋友圈),Android,0.86,17.3,Yes,End,Registered,100,Yes,Paid,9,Content Useful
+U000278,45-54,Douyin (TikTok China),Android,0.46,9.2,No,Sales_Pitch,Registered,63,No,Not Paid,10,"Too Expensive, Instructor Boring, Audio Bad"
+U000279,18-24,WeChat Moments (朋友圈),PC,0.77,15.5,No,End,Registered,93,Yes,Not Paid,8,"Too Expensive, Content Too Basic, Instructor Boring"
+U000280,25-34,Douyin (TikTok China),iOS,0.62,12.5,Yes,Sales_Pitch,Registered,80,Yes,Not Paid,8,"Need More Support, Instructor Boring"
+U000281,35-44,WeChat Moments (朋友圈),Android,0.8,16.1,Yes,End,Registered,90,Yes,Not Paid,5,"Not Enough Examples, Instructor Boring"
+U000282,25-34,Douyin (TikTok China),iOS,0.65,13.0,Yes,Sales_Pitch,Registered,92,Yes,Paid,10,"Easy to Follow, Content Useful"
+U000283,25-34,WeChat Channels (视频号),Android,0.42,8.4,No,Middle,Registered,73,Yes,Not Paid,8,"Too Expensive, Sales Too Pushy, Audio Bad"
+U000284,25-34,Douyin (TikTok China),iOS,0.9,18.1,Yes,End,Registered,100,Yes,Paid,10,Easy to Follow
+U000285,18-24,WeChat Channels (视频号),iOS,0.81,16.3,Yes,End,Registered,100,Yes,Paid,10,"Want More Examples, Practical Tips"
+U000286,18-24,WeChat Channels (视频号),iOS,0.38,7.6,Yes,Middle,Registered,55,No,Not Paid,6,"Audio Bad, Content Too Basic, Not Enough Examples"
+U000287,18-24,WeChat Channels (视频号),Android,0.83,16.7,Yes,End,Registered,92,Yes,Not Paid,7,"Need More Support, Content Too Basic"
+U000288,25-34,Douyin (TikTok China),Android,0.8,15.9,Yes,End,Registered,100,Yes,Paid,10,"Good Audio, Want More Examples"
+U000289,25-34,Douyin (TikTok China),Android,0.45,8.9,No,Middle,Visitor,55,No,Not Paid,6,"Too Expensive, Hard to Follow, Need More Support"
+U000290,25-34,WeChat Channels (视频号),Android,0.41,8.2,Yes,Middle,Visitor,48,No,Not Paid,6,"Hard to Follow, Need More Support"
+U000291,45-54,WeChat Channels (视频号),Android,0.9,18.0,No,End,Registered,100,Yes,Not Paid,6,"Pace Too Fast, Instructor Boring, Sales Too Pushy"
+U000292,45-54,Douyin (TikTok China),Android,0.2,4.0,No,Intro,Visitor,41,No,Not Paid,7,Instructor Boring
+U000293,35-44,WeChat Moments (朋友圈),PC,0.79,15.9,Yes,Sales_Pitch,Registered,100,Yes,Paid,8,"Content Useful, Want More Examples"
+U000294,35-44,WeChat Moments (朋友圈),iOS,0.61,12.3,Yes,Middle,Registered,80,Yes,Not Paid,5,Too Expensive
+U000295,25-34,Douyin (TikTok China),Android,0.86,17.3,Yes,Sales_Pitch,Registered,81,No,Not Paid,6,Too Expensive
+U000296,18-24,Douyin (TikTok China),Android,0.65,13.0,No,Sales_Pitch,Registered,86,Yes,Not Paid,8,"Need More Support, Instructor Boring"
+U000297,35-44,Douyin (TikTok China),PC,0.84,16.9,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Easy to Follow, Clear Structure"
+U000298,25-34,WeChat Moments (朋友圈),iOS,0.92,18.4,No,End,Registered,100,Yes,Not Paid,7,"Need More Support, Sales Too Pushy"
+U000299,35-44,Douyin (TikTok China),Android,0.42,8.4,No,Middle,Registered,73,Yes,Not Paid,4,"Sales Too Pushy, Too Expensive"
+U000300,45-54,Douyin (TikTok China),Android,0.79,15.7,No,End,Registered,81,No,Not Paid,4,"Instructor Boring, Audio Bad, Sales Too Pushy"
+U000301,35-44,WeChat Moments (朋友圈),Android,0.89,17.8,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Good Audio, Practical Tips"
+U000302,35-44,Douyin (TikTok China),Android,0.81,16.2,No,Sales_Pitch,Registered,95,Yes,Not Paid,7,"Audio Bad, Instructor Boring"
+U000303,18-24,Douyin (TikTok China),PC,0.49,9.7,Yes,Middle,Visitor,53,No,Not Paid,7,"Sales Too Pushy, Need More Support"
+U000304,35-44,Douyin (TikTok China),Android,0.73,14.6,Yes,Sales_Pitch,Registered,96,Yes,Paid,8,Clear Structure
+U000305,25-34,WeChat Channels (视频号),PC,0.94,18.9,No,End,Registered,100,Yes,Not Paid,6,Too Expensive
+U000306,18-24,WeChat Moments (朋友圈),Android,0.93,18.6,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,Sales Too Pushy
+U000307,18-24,Douyin (TikTok China),Android,0.29,5.8,No,Intro,Visitor,46,No,Not Paid,8,Content Too Basic
+U000308,25-34,WeChat Moments (朋友圈),Android,0.74,14.8,Yes,End,Registered,97,Yes,Paid,9,"Good Instructor, Good Audio"
+U000309,25-34,Douyin (TikTok China),iOS,0.81,16.2,Yes,End,Registered,91,Yes,Not Paid,6,"Sales Too Pushy, Need More Support, Hard to Follow"
+U000310,25-34,Douyin (TikTok China),Android,0.81,16.3,No,End,Registered,83,No,Not Paid,8,"Instructor Boring, Not Enough Examples, Too Expensive"
+U000311,45-54,WeChat Channels (视频号),iOS,0.9,18.0,No,End,Registered,100,Yes,Not Paid,8,Too Expensive
+U000312,25-34,Douyin (TikTok China),Android,0.64,12.8,No,Middle,Registered,73,No,Not Paid,8,Too Expensive
+U000313,45-54,Douyin (TikTok China),Android,0.35,7.1,Yes,Sales_Pitch,Registered,65,Yes,Not Paid,7,"Sales Too Pushy, Audio Bad"
+U000314,18-24,Douyin (TikTok China),Android,0.9,18.0,No,End,Registered,100,Yes,Paid,9,Clear Structure
+U000315,18-24,Douyin (TikTok China),iOS,0.67,13.4,Yes,Middle,Visitor,63,No,Not Paid,6,"Too Expensive, Sales Too Pushy"
+U000316,35-44,Douyin (TikTok China),PC,0.6,12.0,Yes,Sales_Pitch,Registered,79,Yes,Not Paid,2,Need More Support
+U000317,25-34,WeChat Channels (视频号),Android,0.94,18.9,No,End,Registered,100,Yes,Not Paid,5,Audio Bad
+U000318,35-44,Douyin (TikTok China),Android,0.16,3.1,Yes,Intro,Registered,55,Yes,Not Paid,6,"Too Expensive, Sales Too Pushy"
+U000319,25-34,WeChat Channels (视频号),iOS,0.52,10.4,Yes,Middle,Registered,75,Yes,Not Paid,8,Too Expensive
+U000320,35-44,WeChat Moments (朋友圈),iOS,0.95,19.0,No,End,Registered,100,Yes,Paid,9,Clear Structure
+U000321,25-34,WeChat Channels (视频号),Android,0.84,16.8,Yes,End,Registered,92,Yes,Not Paid,5,"Instructor Boring, Too Expensive"
+U000322,25-34,WeChat Channels (视频号),Android,0.82,16.5,No,Sales_Pitch,Registered,95,Yes,Not Paid,9,Pace Too Fast
+U000323,18-24,Douyin (TikTok China),Android,0.2,4.0,No,Intro,Visitor,41,No,Not Paid,9,"Content Too Basic, Need More Support"
+U000324,25-34,Douyin (TikTok China),Android,0.9,18.0,No,End,Registered,99,Yes,Not Paid,6,"Not Enough Examples, Instructor Boring"
+U000325,25-34,WeChat Moments (朋友圈),Android,0.83,16.6,No,End,Registered,96,Yes,Not Paid,7,Instructor Boring
+U000326,18-24,WeChat Channels (视频号),PC,0.25,4.9,Yes,Intro,Visitor,40,No,Not Paid,4,"Need More Support, Sales Too Pushy, Not Enough Examples"
+U000327,35-44,WeChat Moments (朋友圈),iOS,0.65,13.1,Yes,Sales_Pitch,Visitor,62,No,Not Paid,5,Need More Support
+U000328,35-44,Douyin (TikTok China),Android,0.32,6.5,No,Intro,Registered,68,Yes,Not Paid,5,"Too Expensive, Not Enough Examples, Content Too Basic"
+U000329,18-24,WeChat Channels (视频号),iOS,0.9,18.0,Yes,End,Registered,83,No,Not Paid,5,"Pace Too Fast, Content Too Basic"
+U000330,25-34,Douyin (TikTok China),iOS,0.41,8.2,Yes,Middle,Visitor,48,No,Not Paid,9,"Sales Too Pushy, Content Too Basic"
+U000331,25-34,Douyin (TikTok China),iOS,0.69,13.8,No,Middle,Registered,88,Yes,Not Paid,6,"Too Expensive, Need More Support"
+U000332,35-44,WeChat Moments (朋友圈),PC,0.91,18.3,No,Sales_Pitch,Registered,100,Yes,Paid,9,Good Instructor
+U000333,25-34,Douyin (TikTok China),iOS,0.84,16.8,Yes,End,Registered,100,Yes,Paid,9,Clear Structure
+U000334,18-24,WeChat Moments (朋友圈),Android,0.96,19.2,Yes,Sales_Pitch,Registered,99,Yes,Not Paid,4,"Too Expensive, Sales Too Pushy, Need More Support"
+U000335,35-44,Douyin (TikTok China),iOS,0.84,16.7,Yes,Sales_Pitch,Registered,92,Yes,Not Paid,6,"Not Enough Examples, Content Too Basic"
+U000336,25-34,WeChat Moments (朋友圈),iOS,0.77,15.4,No,End,Visitor,72,No,Not Paid,4,"Instructor Boring, Need More Support, Not Enough Examples"
+U000337,25-34,Douyin (TikTok China),Android,0.26,5.2,Yes,Intro,Visitor,40,No,Not Paid,4,"Pace Too Fast, Audio Bad"
+U000338,18-24,WeChat Channels (视频号),Android,0.31,6.3,Yes,Middle,Visitor,43,No,Not Paid,8,Sales Too Pushy
+U000339,25-34,WeChat Channels (视频号),iOS,0.5,10.1,Yes,Middle,Registered,74,Yes,Not Paid,7,"Instructor Boring, Need More Support, Content Too Basic"
+U000340,35-44,Douyin (TikTok China),Android,0.61,12.3,No,Sales_Pitch,Visitor,64,No,Not Paid,7,"Too Expensive, Instructor Boring, Hard to Follow"
+U000341,25-34,WeChat Moments (朋友圈),iOS,0.85,16.9,No,End,Registered,97,Yes,Not Paid,3,"Sales Too Pushy, Not Enough Examples, Need More Support"
+U000342,25-34,WeChat Channels (视频号),Android,0.44,8.8,No,Middle,Registered,74,Yes,Not Paid,4,"Hard to Follow, Sales Too Pushy, Audio Bad"
+U000343,35-44,Douyin (TikTok China),iOS,0.56,11.3,Yes,Sales_Pitch,Registered,77,Yes,Not Paid,7,Need More Support
+U000344,25-34,Douyin (TikTok China),iOS,0.62,12.4,No,Sales_Pitch,Registered,94,Yes,Paid,9,Practical Tips
+U000345,35-44,WeChat Channels (视频号),iOS,0.7,14.0,No,Middle,Registered,88,Yes,Not Paid,2,Pace Too Fast
+U000346,35-44,WeChat Channels (视频号),iOS,0.48,9.7,No,Middle,Registered,77,Yes,Not Paid,9,"Sales Too Pushy, Not Enough Examples"
+U000347,25-34,WeChat Moments (朋友圈),Android,0.91,18.3,Yes,End,Registered,96,Yes,Not Paid,7,"Content Too Basic, Not Enough Examples"
+U000348,35-44,WeChat Channels (视频号),PC,0.83,16.6,No,End,Registered,96,Yes,Not Paid,10,"Instructor Boring, Need More Support"
+U000349,18-24,WeChat Moments (朋友圈),iOS,0.86,17.2,No,Sales_Pitch,Registered,97,Yes,Not Paid,7,"Content Too Basic, Audio Bad, Not Enough Examples"
+U000350,35-44,Douyin (TikTok China),Android,0.39,7.7,Yes,Middle,Visitor,47,No,Not Paid,6,"Content Too Basic, Not Enough Examples"
+U000351,25-34,WeChat Moments (朋友圈),iOS,0.71,14.1,No,End,Registered,99,Yes,Paid,8,"Want More Examples, Practical Tips"
+U000352,25-34,WeChat Moments (朋友圈),Android,0.98,19.6,No,Sales_Pitch,Registered,100,Yes,Not Paid,7,Pace Too Fast
+U000353,25-34,Douyin (TikTok China),PC,0.45,9.0,No,Middle,Visitor,55,No,Not Paid,9,"Hard to Follow, Not Enough Examples"
+U000354,45-54,Douyin (TikTok China),PC,0.47,9.4,Yes,Sales_Pitch,Visitor,52,No,Not Paid,5,"Hard to Follow, Instructor Boring, Too Expensive"
+U000355,35-44,Douyin (TikTok China),iOS,0.96,19.1,Yes,Sales_Pitch,Registered,87,No,Not Paid,8,"Audio Bad, Too Expensive, Hard to Follow"
+U000356,25-34,WeChat Channels (视频号),Android,0.86,17.2,Yes,Sales_Pitch,Registered,93,Yes,Not Paid,4,"Sales Too Pushy, Not Enough Examples, Audio Bad"
+U000357,35-44,Douyin (TikTok China),iOS,0.8,16.1,Yes,Sales_Pitch,Registered,78,No,Not Paid,6,Need More Support
+U000358,25-34,Douyin (TikTok China),iOS,0.67,13.4,No,Sales_Pitch,Registered,87,Yes,Not Paid,9,Audio Bad
+U000359,25-34,WeChat Channels (视频号),iOS,0.77,15.4,No,End,Registered,80,No,Not Paid,7,"Instructor Boring, Audio Bad, Sales Too Pushy"
+U000360,25-34,Douyin (TikTok China),iOS,0.26,5.2,Yes,Intro,Visitor,40,No,Not Paid,8,Content Too Basic
+U000361,25-34,Douyin (TikTok China),iOS,0.55,11.0,No,Sales_Pitch,Registered,90,Yes,Paid,9,"Good Instructor, Easy to Follow"
+U000362,25-34,WeChat Channels (视频号),Android,0.93,18.6,No,End,Registered,100,Yes,Paid,7,"Easy to Follow, Clear Structure"
+U000363,35-44,Douyin (TikTok China),Android,0.49,9.9,No,Sales_Pitch,Visitor,57,No,Not Paid,6,"Too Expensive, Audio Bad"
+U000364,35-44,Douyin (TikTok China),Android,0.5,9.9,Yes,Sales_Pitch,Visitor,53,No,Not Paid,8,"Audio Bad, Hard to Follow"
+U000365,25-34,Douyin (TikTok China),iOS,0.79,15.7,Yes,Sales_Pitch,Registered,99,Yes,Paid,8,"Good Audio, Content Useful"
+U000366,18-24,Douyin (TikTok China),iOS,0.56,11.2,No,Middle,Registered,81,Yes,Not Paid,7,"Too Expensive, Instructor Boring"
+U000367,25-34,WeChat Channels (视频号),PC,0.92,18.3,Yes,End,Registered,96,Yes,Not Paid,7,Audio Bad
+U000368,18-24,Douyin (TikTok China),Android,0.79,15.9,No,Sales_Pitch,Registered,94,Yes,Not Paid,6,"Sales Too Pushy, Content Too Basic, Too Expensive"
+U000369,35-44,WeChat Channels (视频号),Android,0.61,12.2,Yes,Middle,Registered,80,Yes,Not Paid,7,"Too Expensive, Pace Too Fast"
+U000370,18-24,Douyin (TikTok China),iOS,0.51,10.2,Yes,Middle,Registered,74,Yes,Not Paid,8,Audio Bad
+U000371,25-34,Douyin (TikTok China),Android,0.71,14.3,Yes,Sales_Pitch,Registered,85,Yes,Not Paid,5,Content Too Basic
+U000372,25-34,WeChat Channels (视频号),iOS,0.72,14.3,No,End,Registered,89,Yes,Not Paid,7,"Sales Too Pushy, Too Expensive"
+U000373,25-34,Douyin (TikTok China),Android,0.5,9.9,Yes,Middle,Visitor,53,No,Not Paid,3,"Not Enough Examples, Instructor Boring, Audio Bad"
+U000374,25-34,WeChat Channels (视频号),PC,0.56,11.2,No,Sales_Pitch,Visitor,61,No,Not Paid,4,Sales Too Pushy
+U000375,18-24,Douyin (TikTok China),Android,0.79,15.8,No,End,Registered,94,Yes,Not Paid,8,"Too Expensive, Need More Support, Content Too Basic"
+U000376,18-24,Douyin (TikTok China),Android,0.89,17.9,Yes,End,Registered,100,Yes,Paid,9,"Good Instructor, Clear Structure"
+U000377,25-34,Douyin (TikTok China),PC,0.76,15.3,No,End,Registered,92,Yes,Not Paid,4,"Too Expensive, Sales Too Pushy, Not Enough Examples"
+U000378,18-24,WeChat Moments (朋友圈),iOS,0.9,18.0,Yes,Sales_Pitch,Registered,95,Yes,Not Paid,7,Hard to Follow
+U000379,25-34,Douyin (TikTok China),Android,0.4,7.9,Yes,Sales_Pitch,Visitor,48,No,Not Paid,6,"Need More Support, Audio Bad, Hard to Follow"
+U000380,35-44,Douyin (TikTok China),Android,0.47,9.5,Yes,Sales_Pitch,Visitor,52,No,Not Paid,6,"Not Enough Examples, Pace Too Fast"
+U000381,25-34,WeChat Channels (视频号),iOS,0.68,13.6,No,Middle,Registered,87,Yes,Not Paid,2,"Content Too Basic, Pace Too Fast, Need More Support"
+U000382,35-44,WeChat Moments (朋友圈),iOS,0.79,15.7,No,Sales_Pitch,Registered,93,Yes,Not Paid,4,Hard to Follow
+U000383,35-44,Douyin (TikTok China),iOS,0.85,17.1,Yes,End,Registered,81,No,Not Paid,6,"Sales Too Pushy, Pace Too Fast, Audio Bad"
+U000384,25-34,Douyin (TikTok China),Android,0.92,18.5,Yes,End,Registered,100,Yes,Paid,9,Clear Structure
+U000385,35-44,WeChat Channels (视频号),iOS,0.53,10.5,No,Middle,Registered,79,Yes,Not Paid,5,Content Too Basic
+U000386,25-34,WeChat Moments (朋友圈),iOS,0.99,19.7,No,Sales_Pitch,Registered,100,Yes,Not Paid,9,Instructor Boring
+U000387,25-34,Douyin (TikTok China),Android,0.49,9.9,Yes,Middle,Registered,73,Yes,Not Paid,4,Not Enough Examples
+U000388,25-34,Douyin (TikTok China),Android,0.98,19.7,No,Sales_Pitch,Registered,100,Yes,Not Paid,6,Not Enough Examples
+U000389,35-44,Douyin (TikTok China),iOS,0.61,12.2,No,Sales_Pitch,Registered,84,Yes,Not Paid,4,"Pace Too Fast, Too Expensive"
+U000390,25-34,Douyin (TikTok China),PC,0.42,8.4,Yes,Middle,Registered,69,Yes,Not Paid,1,"Too Expensive, Content Too Basic"
+U000391,25-34,Douyin (TikTok China),Android,0.91,18.2,No,Sales_Pitch,Registered,100,Yes,Not Paid,7,"Too Expensive, Sales Too Pushy, Hard to Follow"
+U000392,45-54,Douyin (TikTok China),PC,0.64,12.8,No,Middle,Registered,73,No,Not Paid,8,Sales Too Pushy
+U000393,35-44,Douyin (TikTok China),Android,0.61,12.2,No,Sales_Pitch,Registered,84,Yes,Not Paid,7,"Pace Too Fast, Sales Too Pushy"
+U000394,35-44,Douyin (TikTok China),Android,0.86,17.1,No,End,Registered,100,Yes,Paid,10,Content Useful
+U000395,25-34,WeChat Channels (视频号),Android,0.59,11.7,No,Middle,Registered,82,Yes,Not Paid,2,"Hard to Follow, Sales Too Pushy, Content Too Basic"
+U000396,18-24,Douyin (TikTok China),iOS,0.55,10.9,No,Middle,Registered,80,Yes,Not Paid,8,Need More Support
+U000397,18-24,Douyin (TikTok China),Android,0.59,11.9,No,Sales_Pitch,Visitor,63,No,Not Paid,8,Not Enough Examples
+U000398,18-24,Douyin (TikTok China),PC,0.51,10.3,No,Middle,Visitor,58,No,Not Paid,4,Too Expensive
+U000399,35-44,WeChat Channels (视频号),Android,0.66,13.2,No,Sales_Pitch,Registered,86,Yes,Not Paid,6,"Instructor Boring, Pace Too Fast"
+U000400,35-44,Douyin (TikTok China),Android,0.35,7.0,No,Middle,Visitor,49,No,Not Paid,4,"Pace Too Fast, Hard to Follow, Sales Too Pushy"
+U000401,25-34,WeChat Channels (视频号),iOS,0.56,11.2,Yes,Sales_Pitch,Visitor,57,No,Not Paid,4,"Not Enough Examples, Content Too Basic, Instructor Boring"
+U000402,25-34,Douyin (TikTok China),Android,0.84,16.9,Yes,End,Registered,100,Yes,Paid,10,Clear Structure
+U000403,35-44,WeChat Channels (视频号),Android,0.97,19.3,Yes,End,Registered,100,Yes,Paid,7,"Clear Structure, Practical Tips"
+U000404,35-44,WeChat Moments (朋友圈),iOS,0.95,19.1,No,Sales_Pitch,Registered,90,No,Not Paid,6,"Too Expensive, Hard to Follow, Pace Too Fast"
+U000405,35-44,WeChat Channels (视频号),iOS,0.5,9.9,No,Middle,Registered,65,No,Not Paid,2,Pace Too Fast
+U000406,18-24,Douyin (TikTok China),Android,0.4,8.1,Yes,Middle,Visitor,48,No,Not Paid,7,"Too Expensive, Audio Bad"
+U000407,25-34,WeChat Channels (视频号),Android,0.64,12.8,Yes,Sales_Pitch,Visitor,61,No,Not Paid,5,"Audio Bad, Too Expensive"
+U000408,25-34,WeChat Channels (视频号),iOS,0.69,13.8,Yes,Sales_Pitch,Registered,84,Yes,Not Paid,7,"Need More Support, Hard to Follow, Content Too Basic"
+U000409,25-34,Douyin (TikTok China),iOS,0.89,17.8,No,Sales_Pitch,Registered,99,Yes,Not Paid,4,"Too Expensive, Content Too Basic, Hard to Follow"
+U000410,18-24,Douyin (TikTok China),Android,0.83,16.7,No,Sales_Pitch,Registered,84,No,Not Paid,3,Instructor Boring
+U000411,35-44,Douyin (TikTok China),iOS,0.79,15.8,No,End,Registered,81,No,Not Paid,4,"Audio Bad, Too Expensive"
+U000412,25-34,WeChat Channels (视频号),iOS,0.93,18.7,No,End,Registered,100,Yes,Not Paid,6,"Instructor Boring, Content Too Basic"
+U000413,25-34,WeChat Channels (视频号),Android,0.43,8.5,Yes,Middle,Registered,69,Yes,Not Paid,6,"Audio Bad, Too Expensive, Instructor Boring"
+U000414,25-34,Douyin (TikTok China),iOS,0.58,11.5,No,Middle,Visitor,62,No,Not Paid,5,"Need More Support, Pace Too Fast"
+U000415,18-24,Douyin (TikTok China),iOS,0.83,16.7,Yes,Sales_Pitch,Registered,92,Yes,Not Paid,5,Sales Too Pushy
+U000416,25-34,Douyin (TikTok China),Android,0.74,14.9,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Good Audio, Clear Structure"
+U000417,25-34,Douyin (TikTok China),iOS,0.49,9.8,Yes,Sales_Pitch,Visitor,53,No,Not Paid,5,"Not Enough Examples, Pace Too Fast"
+U000418,25-34,Douyin (TikTok China),Android,0.65,13.1,No,Sales_Pitch,Registered,86,Yes,Not Paid,7,"Need More Support, Too Expensive, Sales Too Pushy"
+U000419,45-54,WeChat Moments (朋友圈),iOS,0.95,19.1,No,Sales_Pitch,Registered,100,Yes,Not Paid,4,Not Enough Examples
+U000420,18-24,WeChat Channels (视频号),PC,0.82,16.3,No,End,Registered,100,Yes,Paid,9,Practical Tips
+U000421,25-34,WeChat Moments (朋友圈),PC,0.8,16.1,No,End,Registered,94,Yes,Not Paid,7,"Hard to Follow, Pace Too Fast, Not Enough Examples"
+U000422,18-24,WeChat Channels (视频号),Android,0.97,19.4,No,End,Registered,91,No,Not Paid,8,"Pace Too Fast, Sales Too Pushy, Instructor Boring"
+U000423,18-24,Douyin (TikTok China),Android,0.59,11.8,Yes,Middle,Registered,79,Yes,Not Paid,4,"Too Expensive, Content Too Basic, Audio Bad"
+U000424,25-34,WeChat Moments (朋友圈),Android,0.83,16.6,No,Sales_Pitch,Registered,96,Yes,Not Paid,6,Need More Support
+U000425,35-44,Douyin (TikTok China),Android,0.62,12.4,Yes,Sales_Pitch,Registered,80,Yes,Not Paid,10,Sales Too Pushy
+U000426,25-34,Douyin (TikTok China),Android,0.39,7.8,Yes,Sales_Pitch,Registered,56,No,Not Paid,1,"Content Too Basic, Sales Too Pushy, Too Expensive"
+U000427,25-34,WeChat Moments (朋友圈),iOS,0.85,17.1,No,Sales_Pitch,Registered,97,Yes,Not Paid,7,Need More Support
+U000428,25-34,Douyin (TikTok China),Android,0.64,12.8,Yes,Middle,Registered,81,Yes,Not Paid,4,Too Expensive
+U000429,25-34,Douyin (TikTok China),Android,0.64,12.8,Yes,Sales_Pitch,Registered,81,Yes,Not Paid,7,"Need More Support, Too Expensive"
+U000430,25-34,Douyin (TikTok China),Android,0.85,17.1,No,End,Registered,97,Yes,Not Paid,8,"Content Too Basic, Need More Support, Audio Bad"
+U000431,18-24,WeChat Channels (视频号),iOS,0.81,16.2,No,Sales_Pitch,Registered,100,Yes,Paid,7,Easy to Follow
+U000432,25-34,WeChat Channels (视频号),iOS,0.39,7.9,No,Middle,Visitor,52,No,Not Paid,2,"Audio Bad, Sales Too Pushy"
+U000433,18-24,Douyin (TikTok China),Android,0.92,18.4,Yes,End,Registered,100,Yes,Paid,9,"Want More Examples, Good Audio"
+U000434,18-24,Douyin (TikTok China),Android,0.67,13.5,No,Middle,Registered,75,No,Not Paid,4,"Pace Too Fast, Not Enough Examples"
+U000435,25-34,Douyin (TikTok China),PC,0.44,8.8,Yes,Middle,Registered,80,Yes,Paid,10,Good Instructor
+U000436,35-44,WeChat Channels (视频号),Android,0.89,17.7,No,Sales_Pitch,Visitor,79,No,Not Paid,4,"Too Expensive, Content Too Basic"
+U000437,25-34,WeChat Channels (视频号),Android,0.91,18.1,No,Sales_Pitch,Registered,100,Yes,Not Paid,7,"Too Expensive, Audio Bad, Hard to Follow"
+U000438,18-24,Douyin (TikTok China),iOS,0.88,17.6,Yes,End,Registered,100,Yes,Paid,9,Practical Tips
+U000439,25-34,WeChat Moments (朋友圈),Android,0.74,14.9,Yes,End,Registered,97,Yes,Paid,9,Clear Structure
+U000440,35-44,Douyin (TikTok China),Android,0.74,14.7,No,End,Registered,100,Yes,Paid,9,Practical Tips
+U000441,35-44,Douyin (TikTok China),Android,0.38,7.5,Yes,Middle,Registered,55,No,Not Paid,9,"Audio Bad, Sales Too Pushy"
+U000442,35-44,Douyin (TikTok China),iOS,0.33,6.5,Yes,Intro,Registered,64,Yes,Not Paid,6,"Content Too Basic, Sales Too Pushy, Not Enough Examples"
+U000443,18-24,Douyin (TikTok China),iOS,0.72,14.5,Yes,End,Visitor,66,No,Not Paid,7,"Sales Too Pushy, Too Expensive"
+U000444,18-24,Douyin (TikTok China),Android,0.44,8.8,No,Middle,Registered,62,No,Not Paid,7,"Content Too Basic, Hard to Follow, Sales Too Pushy"
+U000445,45-54,WeChat Channels (视频号),Android,0.56,11.2,Yes,Middle,Visitor,57,No,Not Paid,5,"Need More Support, Hard to Follow, Instructor Boring"
+U000446,25-34,WeChat Channels (视频号),iOS,0.79,15.7,No,End,Registered,100,Yes,Paid,9,"Clear Structure, Easy to Follow"
+U000447,25-34,Douyin (TikTok China),iOS,0.78,15.6,Yes,End,Registered,89,Yes,Not Paid,4,"Sales Too Pushy, Not Enough Examples, Content Too Basic"
+U000448,25-34,WeChat Moments (朋友圈),iOS,0.89,17.7,Yes,End,Registered,95,Yes,Not Paid,5,Content Too Basic
+U000449,35-44,Douyin (TikTok China),Android,0.61,12.2,No,Sales_Pitch,Registered,72,No,Not Paid,5,Too Expensive
+U000450,25-34,Douyin (TikTok China),Android,0.74,14.8,No,End,Visitor,71,No,Not Paid,9,Content Too Basic
+U000451,25-34,Douyin (TikTok China),Android,0.29,5.9,No,Middle,Visitor,46,No,Not Paid,6,Hard to Follow
+U000452,35-44,WeChat Channels (视频号),Android,0.55,11.1,No,Middle,Registered,68,No,Not Paid,8,Audio Bad
+U000453,35-44,WeChat Channels (视频号),iOS,0.99,19.8,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,"Clear Structure, Content Useful"
+U000454,25-34,Douyin (TikTok China),iOS,0.2,4.0,No,Intro,Registered,49,No,Not Paid,4,Hard to Follow
+U000455,25-34,Douyin (TikTok China),iOS,0.66,13.2,No,Middle,Registered,86,Yes,Not Paid,7,"Not Enough Examples, Need More Support, Content Too Basic"
+U000456,35-44,WeChat Channels (视频号),Android,0.7,14.0,No,Middle,Registered,88,Yes,Not Paid,8,"Hard to Follow, Sales Too Pushy, Need More Support"
+U000457,45-54,Douyin (TikTok China),Android,0.7,14.0,Yes,Sales_Pitch,Registered,84,Yes,Not Paid,7,"Content Too Basic, Sales Too Pushy, Hard to Follow"
+U000458,25-34,WeChat Channels (视频号),Android,0.74,14.9,Yes,End,Registered,97,Yes,Paid,10,"Clear Structure, Easy to Follow"
+U000459,25-34,Douyin (TikTok China),iOS,0.44,8.8,Yes,Middle,Visitor,50,No,Not Paid,5,"Hard to Follow, Instructor Boring, Not Enough Examples"
+U000460,25-34,WeChat Channels (视频号),Android,0.52,10.4,Yes,Middle,Registered,63,No,Not Paid,4,"Content Too Basic, Hard to Follow, Need More Support"
+U000461,25-34,WeChat Channels (视频号),Android,0.65,13.1,Yes,Middle,Visitor,62,No,Not Paid,6,Pace Too Fast
+U000462,25-34,Douyin (TikTok China),iOS,0.37,7.3,No,Sales_Pitch,Visitor,50,No,Not Paid,5,"Pace Too Fast, Sales Too Pushy, Not Enough Examples"
+U000463,25-34,WeChat Channels (视频号),Android,0.74,14.8,No,Sales_Pitch,Registered,79,No,Not Paid,6,"Sales Too Pushy, Content Too Basic, Need More Support"
+U000464,25-34,Douyin (TikTok China),Android,0.61,12.2,Yes,Middle,Registered,89,Yes,Paid,9,Clear Structure
+U000465,18-24,WeChat Channels (视频号),iOS,0.77,15.4,Yes,End,Registered,76,No,Not Paid,9,"Content Too Basic, Hard to Follow, Pace Too Fast"
+U000466,35-44,WeChat Moments (朋友圈),iOS,0.63,12.5,No,Middle,Registered,84,Yes,Not Paid,6,"Not Enough Examples, Instructor Boring"
+U000467,25-34,WeChat Channels (视频号),iOS,0.83,16.6,No,Sales_Pitch,Registered,96,Yes,Not Paid,6,"Too Expensive, Need More Support, Pace Too Fast"
+U000468,18-24,Douyin (TikTok China),Android,0.53,10.6,Yes,Middle,Registered,75,Yes,Not Paid,5,"Not Enough Examples, Too Expensive"
+U000469,18-24,Douyin (TikTok China),Android,0.61,12.3,No,Middle,Registered,72,No,Not Paid,7,"Sales Too Pushy, Hard to Follow, Instructor Boring"
+U000470,25-34,Douyin (TikTok China),Android,0.67,13.4,No,Middle,Registered,75,No,Not Paid,3,Need More Support
+U000471,25-34,Douyin (TikTok China),Android,0.34,6.9,Yes,Intro,Registered,65,Yes,Not Paid,6,Need More Support
+U000472,45-54,Douyin (TikTok China),Android,0.43,8.5,No,Middle,Registered,73,Yes,Not Paid,4,"Audio Bad, Too Expensive, Not Enough Examples"
+U000473,35-44,Douyin (TikTok China),iOS,0.8,16.1,No,Sales_Pitch,Registered,94,Yes,Not Paid,7,"Instructor Boring, Audio Bad"
+U000474,25-34,WeChat Channels (视频号),Android,0.85,17.0,No,Sales_Pitch,Registered,85,No,Not Paid,9,Audio Bad
+U000475,25-34,WeChat Channels (视频号),Android,0.92,18.5,No,End,Registered,100,Yes,Not Paid,4,"Sales Too Pushy, Pace Too Fast, Instructor Boring"
+U000476,18-24,Douyin (TikTok China),PC,0.8,16.0,Yes,Sales_Pitch,Registered,90,Yes,Not Paid,4,"Too Expensive, Audio Bad"
+U000477,25-34,WeChat Channels (视频号),iOS,0.78,15.6,Yes,Sales_Pitch,Registered,89,Yes,Not Paid,5,"Need More Support, Hard to Follow"
+U000478,18-24,Douyin (TikTok China),Android,0.29,5.8,No,Intro,Registered,54,No,Not Paid,10,"Hard to Follow, Too Expensive, Sales Too Pushy"
+U000479,25-34,Douyin (TikTok China),PC,0.84,16.8,Yes,End,Visitor,72,No,Not Paid,4,Instructor Boring
+U000480,25-34,Douyin (TikTok China),Android,0.83,16.7,Yes,End,Registered,92,Yes,Not Paid,7,"Too Expensive, Sales Too Pushy, Content Too Basic"
+U000481,25-34,Douyin (TikTok China),iOS,0.77,15.4,Yes,End,Registered,88,Yes,Not Paid,5,Instructor Boring
+U000482,45-54,Douyin (TikTok China),iOS,0.97,19.4,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,"Practical Tips, Easy to Follow"
+U000483,45-54,WeChat Channels (视频号),iOS,0.87,17.4,No,End,Registered,86,No,Not Paid,7,"Not Enough Examples, Pace Too Fast"
+U000484,25-34,Douyin (TikTok China),iOS,0.59,11.8,Yes,Sales_Pitch,Registered,78,Yes,Not Paid,5,"Content Too Basic, Instructor Boring"
+U000485,25-34,Douyin (TikTok China),Android,0.37,7.4,Yes,Sales_Pitch,Registered,54,No,Not Paid,7,"Too Expensive, Sales Too Pushy"
+U000486,18-24,Douyin (TikTok China),iOS,0.43,8.7,No,Middle,Registered,84,Yes,Paid,8,Content Useful
+U000487,25-34,WeChat Moments (朋友圈),Android,0.95,19.0,Yes,End,Registered,100,Yes,Paid,9,"Good Audio, Content Useful"
+U000488,35-44,Douyin (TikTok China),Android,0.65,13.1,No,Middle,Visitor,66,No,Not Paid,8,"Sales Too Pushy, Audio Bad, Not Enough Examples"
+U000489,35-44,WeChat Channels (视频号),PC,0.78,15.7,Yes,End,Visitor,69,No,Not Paid,5,"Not Enough Examples, Too Expensive"
+U000490,25-34,Douyin (TikTok China),Android,0.85,17.0,Yes,End,Registered,81,No,Not Paid,7,"Need More Support, Audio Bad"
+U000491,25-34,Douyin (TikTok China),Android,0.53,10.6,No,Middle,Registered,79,Yes,Not Paid,6,"Sales Too Pushy, Instructor Boring"
+U000492,35-44,WeChat Channels (视频号),iOS,0.87,17.3,No,End,Registered,98,Yes,Not Paid,7,"Hard to Follow, Instructor Boring, Too Expensive"
+U000493,35-44,WeChat Channels (视频号),iOS,0.66,13.2,Yes,Middle,Registered,70,No,Not Paid,6,Pace Too Fast
+U000494,35-44,Douyin (TikTok China),Android,0.37,7.4,Yes,Sales_Pitch,Visitor,46,No,Not Paid,5,"Audio Bad, Instructor Boring, Too Expensive"
+U000495,25-34,Douyin (TikTok China),Android,0.3,6.0,Yes,Intro,Visitor,42,No,Not Paid,4,"Need More Support, Too Expensive"
+U000496,25-34,Douyin (TikTok China),Android,0.51,10.1,No,Middle,Registered,78,Yes,Not Paid,4,Content Too Basic
+U000497,35-44,WeChat Channels (视频号),PC,0.53,10.6,No,Sales_Pitch,Registered,79,Yes,Not Paid,8,"Pace Too Fast, Hard to Follow"
+U000498,18-24,Douyin (TikTok China),iOS,0.98,19.6,No,End,Registered,100,Yes,Not Paid,6,"Need More Support, Sales Too Pushy, Content Too Basic"
+U000499,45-54,WeChat Moments (朋友圈),iOS,0.37,7.3,No,Middle,Registered,80,Yes,Paid,8,Easy to Follow
+U000500,18-24,WeChat Moments (朋友圈),Android,0.76,15.3,No,Sales_Pitch,Registered,92,Yes,Not Paid,5,Audio Bad
+U000501,25-34,WeChat Moments (朋友圈),iOS,0.77,15.5,No,End,Registered,93,Yes,Not Paid,6,"Not Enough Examples, Sales Too Pushy"
+U000502,45-54,WeChat Moments (朋友圈),Android,0.69,13.8,No,Middle,Registered,88,Yes,Not Paid,6,"Need More Support, Not Enough Examples, Too Expensive"
+U000503,25-34,WeChat Channels (视频号),Android,0.41,8.2,No,Sales_Pitch,Registered,60,No,Not Paid,5,"Audio Bad, Sales Too Pushy, Too Expensive"
+U000504,35-44,Douyin (TikTok China),Android,0.34,6.8,No,Intro,Registered,69,Yes,Not Paid,4,Not Enough Examples
+U000505,18-24,WeChat Channels (视频号),iOS,0.54,10.8,Yes,Middle,Registered,64,No,Not Paid,10,Not Enough Examples
+U000506,25-34,WeChat Channels (视频号),Android,0.9,17.9,No,Sales_Pitch,Registered,99,Yes,Not Paid,4,Content Too Basic
+U000507,35-44,WeChat Channels (视频号),Android,0.37,7.5,No,Middle,Visitor,51,No,Not Paid,7,Hard to Follow
+U000508,35-44,Douyin (TikTok China),iOS,0.99,19.8,No,End,Registered,100,Yes,Not Paid,5,Content Too Basic
+U000509,35-44,WeChat Channels (视频号),PC,0.88,17.5,Yes,Sales_Pitch,Registered,82,No,Not Paid,6,Instructor Boring
+U000510,25-34,WeChat Channels (视频号),Android,0.79,15.8,No,Sales_Pitch,Registered,100,Yes,Paid,8,Good Audio
+U000511,25-34,Douyin (TikTok China),Android,0.75,15.0,Yes,End,Registered,87,Yes,Not Paid,9,"Sales Too Pushy, Hard to Follow, Need More Support"
+U000512,45-54,WeChat Channels (视频号),Android,0.95,19.1,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,Practical Tips
+U000513,18-24,Douyin (TikTok China),PC,0.49,9.8,Yes,Middle,Registered,73,Yes,Not Paid,4,"Not Enough Examples, Audio Bad"
+U000514,25-34,Douyin (TikTok China),iOS,0.6,11.9,No,Middle,Registered,71,No,Not Paid,3,"Sales Too Pushy, Content Too Basic"
+U000515,25-34,Douyin (TikTok China),iOS,0.56,11.3,No,Middle,Registered,81,Yes,Not Paid,10,Content Too Basic
+U000516,25-34,WeChat Moments (朋友圈),iOS,0.78,15.6,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Good Instructor, Easy to Follow"
+U000517,18-24,Douyin (TikTok China),Android,0.21,4.2,No,Intro,Visitor,42,No,Not Paid,10,"Instructor Boring, Too Expensive, Sales Too Pushy"
+U000518,35-44,WeChat Channels (视频号),iOS,0.66,13.3,Yes,Sales_Pitch,Registered,83,Yes,Not Paid,4,Instructor Boring
+U000519,35-44,Douyin (TikTok China),Android,0.59,11.8,No,Middle,Registered,83,Yes,Not Paid,7,Too Expensive
+U000520,25-34,WeChat Moments (朋友圈),PC,0.98,19.6,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Easy to Follow, Content Useful"
+U000521,25-34,Douyin (TikTok China),iOS,0.74,14.7,Yes,Sales_Pitch,Registered,86,Yes,Not Paid,3,Instructor Boring
+U000522,18-24,WeChat Moments (朋友圈),Android,0.6,11.9,No,Middle,Visitor,63,No,Not Paid,8,"Need More Support, Not Enough Examples"
+U000523,25-34,Douyin (TikTok China),Android,0.82,16.4,Yes,End,Registered,91,Yes,Not Paid,9,Too Expensive
+U000524,25-34,Douyin (TikTok China),Android,0.3,6.1,No,Intro,Registered,67,Yes,Not Paid,9,Not Enough Examples
+U000525,35-44,WeChat Moments (朋友圈),Android,0.91,18.2,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Good Audio, Easy to Follow"
+U000526,35-44,Douyin (TikTok China),iOS,0.77,15.4,Yes,Sales_Pitch,Registered,98,Yes,Paid,10,Easy to Follow
+U000527,45-54,WeChat Moments (朋友圈),PC,0.98,19.5,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Good Audio, Content Useful"
+U000528,25-34,WeChat Channels (视频号),iOS,0.89,17.8,Yes,End,Registered,95,Yes,Not Paid,9,"Audio Bad, Too Expensive"
+U000529,35-44,WeChat Moments (朋友圈),Android,0.73,14.5,Yes,Sales_Pitch,Registered,96,Yes,Paid,10,"Good Audio, Clear Structure"
+U000530,25-34,Douyin (TikTok China),Android,0.62,12.4,No,Sales_Pitch,Visitor,64,No,Not Paid,3,Audio Bad
+U000531,45-54,Douyin (TikTok China),Android,0.81,16.1,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Good Instructor, Clear Structure"
+U000532,35-44,Douyin (TikTok China),iOS,0.52,10.5,No,Sales_Pitch,Registered,89,Yes,Paid,8,Good Audio
+U000533,45-54,Douyin (TikTok China),iOS,0.54,10.9,Yes,Middle,Registered,76,Yes,Not Paid,5,Need More Support
+U000534,35-44,WeChat Channels (视频号),PC,0.79,15.8,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Good Instructor, Easy to Follow"
+U000535,35-44,WeChat Channels (视频号),Android,0.64,12.8,No,Middle,Registered,73,No,Not Paid,8,Audio Bad
+U000536,25-34,Douyin (TikTok China),PC,0.71,14.2,Yes,Sales_Pitch,Registered,85,Yes,Not Paid,7,Hard to Follow
+U000537,35-44,WeChat Channels (视频号),Android,0.7,13.9,Yes,Middle,Registered,84,Yes,Not Paid,8,"Hard to Follow, Content Too Basic"
+U000538,18-24,WeChat Moments (朋友圈),Android,0.94,18.7,No,Sales_Pitch,Registered,100,Yes,Not Paid,8,"Need More Support, Instructor Boring, Content Too Basic"
+U000539,35-44,Douyin (TikTok China),Android,0.57,11.5,No,Middle,Visitor,62,No,Not Paid,3,Content Too Basic
+U000540,45-54,WeChat Moments (朋友圈),Android,0.75,15.1,No,End,Registered,92,Yes,Not Paid,6,"Instructor Boring, Content Too Basic, Sales Too Pushy"
+U000541,25-34,Douyin (TikTok China),iOS,0.7,14.1,No,Sales_Pitch,Registered,89,Yes,Not Paid,10,"Too Expensive, Sales Too Pushy, Hard to Follow"
+U000542,45-54,Douyin (TikTok China),iOS,0.46,9.3,No,Middle,Registered,75,Yes,Not Paid,8,"Sales Too Pushy, Need More Support"
+U000543,25-34,WeChat Channels (视频号),PC,0.78,15.6,No,End,Registered,93,Yes,Not Paid,5,"Instructor Boring, Pace Too Fast, Need More Support"
+U000544,35-44,Douyin (TikTok China),Android,0.69,13.7,No,Middle,Registered,98,Yes,Paid,7,"Good Instructor, Easy to Follow"
+U000545,35-44,Douyin (TikTok China),iOS,0.52,10.4,No,Sales_Pitch,Registered,67,No,Not Paid,9,"Too Expensive, Audio Bad"
+U000546,35-44,WeChat Channels (视频号),Android,0.87,17.5,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Clear Structure, Content Useful"
+U000547,25-34,WeChat Moments (朋友圈),PC,0.99,19.8,Yes,Sales_Pitch,Registered,100,Yes,Paid,9,"Want More Examples, Content Useful"
+U000548,35-44,WeChat Channels (视频号),Android,0.45,8.9,Yes,Middle,Registered,81,Yes,Paid,9,"Clear Structure, Content Useful"
+U000549,25-34,WeChat Channels (视频号),iOS,0.81,16.2,No,Sales_Pitch,Registered,82,No,Not Paid,6,"Audio Bad, Too Expensive"
+U000550,25-34,WeChat Moments (朋友圈),Android,0.58,11.5,Yes,Sales_Pitch,Visitor,58,No,Not Paid,4,"Need More Support, Not Enough Examples"
+U000551,45-54,Douyin (TikTok China),iOS,0.6,12.0,Yes,Middle,Registered,67,No,Not Paid,8,"Instructor Boring, Content Too Basic, Sales Too Pushy"
+U000552,18-24,Douyin (TikTok China),PC,0.52,10.5,No,Middle,Registered,89,Yes,Paid,8,Good Audio
+U000553,45-54,Douyin (TikTok China),Android,0.69,13.9,Yes,Middle,Registered,72,No,Not Paid,2,Need More Support
+U000554,35-44,Douyin (TikTok China),Android,0.62,12.3,No,Middle,Registered,72,No,Not Paid,5,"Pace Too Fast, Sales Too Pushy"
+U000555,45-54,WeChat Moments (朋友圈),Android,0.98,19.6,Yes,End,Registered,88,No,Not Paid,5,Need More Support
+U000556,35-44,Douyin (TikTok China),Android,0.31,6.3,No,Middle,Visitor,47,No,Not Paid,7,"Too Expensive, Sales Too Pushy, Content Too Basic"
+U000557,25-34,Douyin (TikTok China),Android,0.58,11.6,No,Sales_Pitch,Registered,70,No,Not Paid,4,Audio Bad
+U000558,25-34,Douyin (TikTok China),Android,0.56,11.2,Yes,Middle,Visitor,57,No,Not Paid,5,Sales Too Pushy
+U000559,25-34,WeChat Moments (朋友圈),iOS,0.79,15.9,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Clear Structure, Good Audio"
+U000560,35-44,WeChat Channels (视频号),Android,0.7,13.9,No,Middle,Registered,98,Yes,Paid,8,Easy to Follow
+U000561,25-34,WeChat Channels (视频号),iOS,0.77,15.4,No,Sales_Pitch,Registered,92,Yes,Not Paid,1,Pace Too Fast
+U000562,35-44,Douyin (TikTok China),iOS,0.37,7.3,No,Middle,Registered,58,No,Not Paid,6,"Hard to Follow, Instructor Boring, Content Too Basic"
+U000563,25-34,WeChat Channels (视频号),iOS,0.88,17.6,Yes,End,Registered,100,Yes,Paid,9,"Practical Tips, Want More Examples"
+U000564,18-24,WeChat Channels (视频号),iOS,0.57,11.5,No,Sales_Pitch,Registered,92,Yes,Paid,8,Content Useful
+U000565,25-34,Douyin (TikTok China),iOS,0.45,9.1,Yes,Middle,Visitor,51,No,Not Paid,6,"Pace Too Fast, Sales Too Pushy"
+U000566,25-34,Douyin (TikTok China),iOS,0.51,10.2,No,Sales_Pitch,Registered,78,Yes,Not Paid,8,"Sales Too Pushy, Hard to Follow, Pace Too Fast"
+U000567,35-44,Douyin (TikTok China),iOS,0.47,9.4,No,Middle,Visitor,56,No,Not Paid,6,Hard to Follow
+U000568,18-24,Douyin (TikTok China),iOS,0.95,19.0,No,Sales_Pitch,Registered,100,Yes,Not Paid,9,"Content Too Basic, Hard to Follow"
+U000569,35-44,Douyin (TikTok China),iOS,0.54,10.8,No,Sales_Pitch,Registered,80,Yes,Not Paid,5,Hard to Follow
+U000570,25-34,Douyin (TikTok China),iOS,0.44,8.8,Yes,Sales_Pitch,Visitor,50,No,Not Paid,8,"Sales Too Pushy, Instructor Boring"
+U000571,25-34,WeChat Channels (视频号),Android,0.81,16.1,Yes,End,Registered,100,Yes,Paid,8,"Easy to Follow, Practical Tips"
+U000572,18-24,Douyin (TikTok China),iOS,0.41,8.2,No,Sales_Pitch,Registered,72,Yes,Not Paid,8,"Sales Too Pushy, Pace Too Fast"
+U000573,35-44,Douyin (TikTok China),Android,0.72,14.5,Yes,End,Registered,74,No,Not Paid,7,Not Enough Examples
+U000574,25-34,Douyin (TikTok China),Android,0.55,10.9,No,Sales_Pitch,Registered,68,No,Not Paid,7,"Too Expensive, Pace Too Fast, Sales Too Pushy"
+U000575,25-34,Douyin (TikTok China),PC,0.39,7.9,No,Middle,Registered,60,No,Not Paid,7,"Not Enough Examples, Too Expensive, Content Too Basic"
+U000576,35-44,WeChat Channels (视频号),iOS,0.82,16.4,No,End,Registered,95,Yes,Not Paid,6,"Instructor Boring, Pace Too Fast"
+U000577,25-34,Douyin (TikTok China),iOS,0.69,13.8,No,Middle,Registered,76,No,Not Paid,9,"Pace Too Fast, Too Expensive, Sales Too Pushy"
+U000578,25-34,WeChat Moments (朋友圈),Android,0.56,11.2,No,Middle,Registered,91,Yes,Paid,9,"Good Instructor, Good Audio"
+U000579,18-24,WeChat Channels (视频号),iOS,0.56,11.3,No,Sales_Pitch,Registered,91,Yes,Paid,9,"Good Instructor, Practical Tips"
+U000580,18-24,Douyin (TikTok China),Android,0.79,15.9,No,End,Visitor,74,No,Not Paid,6,Not Enough Examples
+U000581,35-44,WeChat Channels (视频号),Android,0.98,19.6,Yes,End,Registered,100,Yes,Paid,10,Good Instructor
+U000582,35-44,WeChat Moments (朋友圈),Android,0.97,19.4,No,End,Registered,91,No,Not Paid,6,Instructor Boring
+U000583,25-34,Douyin (TikTok China),Android,0.76,15.3,No,End,Registered,92,Yes,Not Paid,6,"Sales Too Pushy, Instructor Boring, Too Expensive"
+U000584,35-44,Douyin (TikTok China),iOS,0.82,16.4,Yes,Sales_Pitch,Visitor,71,No,Not Paid,7,"Hard to Follow, Need More Support"
+U000585,35-44,Douyin (TikTok China),PC,0.39,7.8,No,Sales_Pitch,Visitor,51,No,Not Paid,9,"Instructor Boring, Content Too Basic, Pace Too Fast"
+U000586,18-24,WeChat Moments (朋友圈),iOS,0.77,15.4,No,End,Registered,92,Yes,Not Paid,9,"Not Enough Examples, Pace Too Fast"
+U000587,35-44,Douyin (TikTok China),Android,0.87,17.4,No,End,Registered,98,Yes,Not Paid,7,"Not Enough Examples, Pace Too Fast, Sales Too Pushy"
+U000588,25-34,Douyin (TikTok China),Android,0.89,17.7,No,Sales_Pitch,Registered,99,Yes,Not Paid,4,"Need More Support, Instructor Boring"
+U000589,35-44,WeChat Channels (视频号),iOS,0.95,18.9,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,"Content Too Basic, Pace Too Fast"
+U000590,35-44,Douyin (TikTok China),iOS,0.75,15.0,No,End,Registered,91,Yes,Not Paid,5,Need More Support
+U000591,45-54,Douyin (TikTok China),iOS,0.91,18.2,No,Sales_Pitch,Registered,100,Yes,Not Paid,6,"Instructor Boring, Sales Too Pushy, Audio Bad"
+U000592,45-54,Douyin (TikTok China),Android,0.73,14.6,No,Sales_Pitch,Registered,90,Yes,Not Paid,7,"Hard to Follow, Instructor Boring"
+U000593,25-34,WeChat Channels (视频号),iOS,0.99,19.8,Yes,End,Registered,100,Yes,Paid,10,Easy to Follow
+U000594,25-34,WeChat Channels (视频号),Android,0.58,11.5,No,Sales_Pitch,Visitor,62,No,Not Paid,6,"Need More Support, Hard to Follow"
+U000595,35-44,WeChat Channels (视频号),Android,0.75,15.1,Yes,End,Visitor,68,No,Not Paid,7,"Sales Too Pushy, Pace Too Fast, Hard to Follow"
+U000596,35-44,WeChat Moments (朋友圈),Android,0.85,17.1,No,End,Registered,97,Yes,Not Paid,5,Need More Support
+U000597,25-34,Douyin (TikTok China),iOS,0.61,12.3,No,Sales_Pitch,Registered,72,No,Not Paid,7,"Not Enough Examples, Audio Bad, Content Too Basic"
+U000598,18-24,WeChat Channels (视频号),iOS,0.89,17.8,No,End,Registered,99,Yes,Not Paid,4,Pace Too Fast
+U000599,35-44,WeChat Channels (视频号),Android,0.83,16.6,No,Sales_Pitch,Registered,96,Yes,Not Paid,6,"Hard to Follow, Instructor Boring"
+U000600,25-34,Douyin (TikTok China),Android,0.83,16.6,Yes,Sales_Pitch,Registered,92,Yes,Not Paid,6,"Content Too Basic, Not Enough Examples"
+U000601,18-24,WeChat Channels (视频号),PC,0.89,17.8,No,Sales_Pitch,Visitor,79,No,Not Paid,8,Instructor Boring
+U000602,25-34,Douyin (TikTok China),iOS,0.6,12.0,No,Middle,Registered,93,Yes,Paid,8,"Clear Structure, Practical Tips"
+U000603,18-24,Douyin (TikTok China),Android,0.8,16.0,No,Sales_Pitch,Registered,100,Yes,Paid,9,"Good Instructor, Content Useful"
+U000604,25-34,Douyin (TikTok China),Android,0.93,18.7,No,Sales_Pitch,Registered,100,Yes,Paid,8,Clear Structure
+U000605,18-24,Douyin (TikTok China),Android,0.49,9.8,Yes,Middle,Registered,61,No,Not Paid,4,Sales Too Pushy
+U000606,25-34,Douyin (TikTok China),iOS,0.41,8.3,Yes,Sales_Pitch,Registered,57,No,Not Paid,3,Too Expensive
+U000607,35-44,WeChat Moments (朋友圈),PC,0.49,9.8,No,Middle,Registered,77,Yes,Not Paid,9,"Not Enough Examples, Content Too Basic"
+U000608,25-34,WeChat Channels (视频号),iOS,0.93,18.6,Yes,End,Registered,97,Yes,Not Paid,3,"Sales Too Pushy, Content Too Basic"
+U000609,18-24,Douyin (TikTok China),iOS,0.48,9.5,No,Middle,Registered,76,Yes,Not Paid,6,"Too Expensive, Not Enough Examples"
+U000610,35-44,Douyin (TikTok China),iOS,0.93,18.6,No,Sales_Pitch,Registered,100,Yes,Not Paid,3,Pace Too Fast
+U000611,18-24,Douyin (TikTok China),Android,0.51,10.2,No,Middle,Registered,66,No,Not Paid,5,"Too Expensive, Content Too Basic"
+U000612,18-24,Douyin (TikTok China),PC,0.81,16.2,No,End,Registered,83,No,Not Paid,6,"Sales Too Pushy, Pace Too Fast, Too Expensive"
+U000613,35-44,Douyin (TikTok China),Android,0.92,18.4,No,End,Registered,100,Yes,Not Paid,5,"Audio Bad, Instructor Boring, Content Too Basic"
+U000614,25-34,Douyin (TikTok China),iOS,0.88,17.7,No,Sales_Pitch,Registered,99,Yes,Not Paid,6,"Sales Too Pushy, Content Too Basic, Not Enough Examples"
+U000615,25-34,WeChat Moments (朋友圈),iOS,0.72,14.4,No,End,Registered,99,Yes,Paid,10,Good Instructor
+U000616,25-34,WeChat Moments (朋友圈),iOS,0.99,19.7,Yes,End,Registered,100,Yes,Paid,10,"Want More Examples, Good Audio"
+U000617,45-54,WeChat Channels (视频号),iOS,0.78,15.6,No,Sales_Pitch,Registered,93,Yes,Not Paid,4,Hard to Follow
+U000618,35-44,WeChat Moments (朋友圈),Android,0.89,17.9,Yes,End,Registered,83,No,Not Paid,3,"Need More Support, Instructor Boring"
+U000619,35-44,Douyin (TikTok China),iOS,0.62,12.4,Yes,Middle,Registered,90,Yes,Paid,8,"Easy to Follow, Clear Structure"
+U000620,45-54,Douyin (TikTok China),iOS,0.71,14.2,Yes,End,Registered,85,Yes,Not Paid,4,"Instructor Boring, Audio Bad, Pace Too Fast"
+U000621,35-44,Douyin (TikTok China),iOS,0.74,14.8,No,Sales_Pitch,Visitor,71,No,Not Paid,8,"Audio Bad, Too Expensive"
+U000622,35-44,Douyin (TikTok China),iOS,0.53,10.7,No,Sales_Pitch,Registered,79,Yes,Not Paid,5,Not Enough Examples
+U000623,45-54,Douyin (TikTok China),Android,0.41,8.2,No,Sales_Pitch,Visitor,53,No,Not Paid,5,"Instructor Boring, Audio Bad, Not Enough Examples"
+U000624,35-44,Douyin (TikTok China),PC,0.91,18.1,No,End,Registered,100,Yes,Not Paid,5,"Too Expensive, Instructor Boring"
+U000625,35-44,Douyin (TikTok China),Android,0.51,10.1,Yes,Middle,Registered,74,Yes,Not Paid,6,"Audio Bad, Content Too Basic"
+U000626,25-34,Douyin (TikTok China),Android,0.85,17.1,No,Sales_Pitch,Registered,97,Yes,Not Paid,8,"Instructor Boring, Content Too Basic"
+U000627,25-34,WeChat Moments (朋友圈),Android,0.8,15.9,No,Sales_Pitch,Registered,82,No,Not Paid,7,"Not Enough Examples, Pace Too Fast, Audio Bad"
+U000628,25-34,WeChat Channels (视频号),Android,0.94,18.7,Yes,End,Registered,98,Yes,Not Paid,3,Too Expensive
+U000629,25-34,Douyin (TikTok China),iOS,0.49,9.9,No,Middle,Registered,65,No,Not Paid,7,"Too Expensive, Audio Bad, Sales Too Pushy"
+U000630,45-54,WeChat Moments (朋友圈),Android,0.7,14.0,No,Middle,Registered,98,Yes,Paid,9,Easy to Follow
+U000631,25-34,WeChat Moments (朋友圈),Android,0.97,19.5,No,End,Registered,100,Yes,Not Paid,3,Hard to Follow
+U000632,25-34,WeChat Moments (朋友圈),Android,0.66,13.3,No,Middle,Registered,86,Yes,Not Paid,6,"Need More Support, Sales Too Pushy, Too Expensive"
+U000633,25-34,Douyin (TikTok China),Android,0.83,16.6,No,End,Registered,84,No,Not Paid,7,Too Expensive
+U000634,25-34,WeChat Channels (视频号),Android,0.7,14.1,No,Sales_Pitch,Visitor,69,No,Not Paid,5,Content Too Basic
+U000635,25-34,Douyin (TikTok China),iOS,0.5,9.9,Yes,Middle,Registered,73,Yes,Not Paid,6,"Content Too Basic, Too Expensive, Pace Too Fast"
+U000636,35-44,Douyin (TikTok China),iOS,0.62,12.4,Yes,Sales_Pitch,Registered,68,No,Not Paid,3,Audio Bad
+U000637,25-34,Douyin (TikTok China),iOS,0.7,14.1,No,End,Visitor,69,No,Not Paid,8,"Pace Too Fast, Hard to Follow"
+U000638,25-34,Douyin (TikTok China),PC,0.77,15.4,No,End,Registered,80,No,Not Paid,2,Hard to Follow
+U000639,25-34,Douyin (TikTok China),Android,0.55,11.0,Yes,Middle,Visitor,56,No,Not Paid,10,"Sales Too Pushy, Too Expensive, Not Enough Examples"
+U000640,35-44,Douyin (TikTok China),iOS,0.75,15.0,No,End,Registered,100,Yes,Paid,9,"Good Instructor, Easy to Follow"
+U000641,18-24,Douyin (TikTok China),iOS,0.45,9.1,No,Middle,Registered,75,Yes,Not Paid,10,"Instructor Boring, Sales Too Pushy, Content Too Basic"
+U000642,25-34,WeChat Channels (视频号),Android,0.43,8.6,No,Sales_Pitch,Registered,62,No,Not Paid,8,"Content Too Basic, Instructor Boring, Too Expensive"
+U000643,35-44,Douyin (TikTok China),iOS,0.37,7.4,No,Middle,Visitor,50,No,Not Paid,7,"Too Expensive, Audio Bad, Pace Too Fast"
+U000644,25-34,Douyin (TikTok China),PC,0.87,17.3,No,End,Registered,100,Yes,Paid,7,"Content Useful, Good Audio"
+U000645,35-44,Douyin (TikTok China),Android,0.67,13.3,No,Middle,Registered,87,Yes,Not Paid,9,"Audio Bad, Content Too Basic"
+U000646,25-34,WeChat Channels (视频号),iOS,0.75,15.0,No,Sales_Pitch,Registered,91,Yes,Not Paid,3,Not Enough Examples
+U000647,18-24,WeChat Moments (朋友圈),Android,0.9,17.9,No,End,Visitor,79,No,Not Paid,3,"Content Too Basic, Too Expensive, Not Enough Examples"
+U000648,25-34,Douyin (TikTok China),PC,0.39,7.8,No,Middle,Registered,59,No,Not Paid,8,"Sales Too Pushy, Content Too Basic, Need More Support"
+U000649,35-44,Douyin (TikTok China),iOS,0.75,15.0,No,End,Registered,91,Yes,Not Paid,10,"Audio Bad, Need More Support, Sales Too Pushy"
+U000650,35-44,WeChat Channels (视频号),PC,0.83,16.6,No,End,Registered,96,Yes,Not Paid,6,"Instructor Boring, Sales Too Pushy"
+U000651,25-34,Douyin (TikTok China),iOS,0.71,14.3,No,Sales_Pitch,Registered,89,Yes,Not Paid,4,"Pace Too Fast, Not Enough Examples"
+U000652,25-34,Douyin (TikTok China),iOS,0.45,8.9,No,Middle,Registered,75,Yes,Not Paid,5,"Sales Too Pushy, Pace Too Fast"
+U000653,18-24,WeChat Moments (朋友圈),Android,0.9,18.0,No,Sales_Pitch,Registered,100,Yes,Not Paid,8,"Need More Support, Content Too Basic"
+U000654,25-34,Douyin (TikTok China),iOS,0.77,15.3,No,End,Registered,80,No,Not Paid,7,"Need More Support, Content Too Basic"
+U000655,35-44,Douyin (TikTok China),Android,0.41,8.2,No,Sales_Pitch,Visitor,53,No,Not Paid,5,"Sales Too Pushy, Content Too Basic, Not Enough Examples"
+U000656,45-54,WeChat Channels (视频号),Android,0.96,19.2,Yes,End,Registered,100,Yes,Paid,10,Content Useful
+U000657,25-34,WeChat Channels (视频号),Android,0.66,13.2,No,Sales_Pitch,Registered,86,Yes,Not Paid,5,"Instructor Boring, Not Enough Examples"
+U000658,25-34,WeChat Channels (视频号),Android,0.98,19.7,No,Sales_Pitch,Registered,100,Yes,Not Paid,7,"Content Too Basic, Not Enough Examples"
+U000659,45-54,WeChat Channels (视频号),Android,0.74,14.9,No,End,Registered,100,Yes,Paid,9,Want More Examples
+U000660,18-24,WeChat Moments (朋友圈),iOS,0.49,9.8,No,Middle,Registered,65,No,Not Paid,6,"Hard to Follow, Content Too Basic, Instructor Boring"
+U000661,25-34,Douyin (TikTok China),Android,0.78,15.6,No,End,Registered,93,Yes,Not Paid,8,"Audio Bad, Instructor Boring"
+U000662,25-34,Douyin (TikTok China),Android,0.93,18.6,Yes,End,Registered,100,Yes,Paid,10,"Clear Structure, Easy to Follow"
+U000663,45-54,Douyin (TikTok China),Android,0.46,9.1,Yes,Middle,Visitor,51,No,Not Paid,9,Instructor Boring
+U000664,18-24,Douyin (TikTok China),iOS,0.68,13.5,No,Middle,Visitor,67,No,Not Paid,6,"Instructor Boring, Sales Too Pushy, Too Expensive"
+U000665,35-44,Douyin (TikTok China),iOS,0.46,9.3,No,Middle,Registered,75,Yes,Not Paid,8,"Not Enough Examples, Pace Too Fast, Too Expensive"
+U000666,35-44,Douyin (TikTok China),iOS,0.75,15.0,Yes,Sales_Pitch,Registered,87,Yes,Not Paid,6,Content Too Basic
+U000667,35-44,Douyin (TikTok China),iOS,0.79,15.8,No,End,Registered,81,No,Not Paid,6,"Instructor Boring, Audio Bad, Need More Support"
+U000668,25-34,Douyin (TikTok China),Android,0.54,10.8,Yes,Middle,Visitor,56,No,Not Paid,2,Instructor Boring
+U000669,35-44,Douyin (TikTok China),Android,0.85,16.9,Yes,Sales_Pitch,Registered,80,No,Not Paid,6,"Content Too Basic, Need More Support"
+U000670,35-44,Douyin (TikTok China),Android,0.31,6.1,Yes,Intro,Registered,63,Yes,Not Paid,8,Instructor Boring
+U000671,45-54,Douyin (TikTok China),iOS,0.66,13.1,No,Middle,Visitor,66,No,Not Paid,5,"Need More Support, Too Expensive"
+U000672,25-34,Douyin (TikTok China),Android,0.74,14.8,No,End,Registered,91,Yes,Not Paid,7,"Instructor Boring, Pace Too Fast, Sales Too Pushy"
+U000673,35-44,Douyin (TikTok China),Android,0.87,17.5,No,End,Visitor,78,No,Not Paid,6,Not Enough Examples
+U000674,35-44,Douyin (TikTok China),iOS,0.74,14.8,No,End,Registered,91,Yes,Not Paid,3,"Too Expensive, Need More Support, Not Enough Examples"
+U000675,18-24,WeChat Moments (朋友圈),iOS,0.99,19.7,No,End,Registered,100,Yes,Paid,9,"Practical Tips, Good Audio"
+U000676,35-44,WeChat Channels (视频号),PC,0.67,13.3,Yes,Middle,Registered,83,Yes,Not Paid,8,Instructor Boring
+U000677,25-34,Douyin (TikTok China),Android,0.53,10.5,No,Sales_Pitch,Registered,67,No,Not Paid,5,"Content Too Basic, Too Expensive, Hard to Follow"
+U000678,18-24,Douyin (TikTok China),iOS,0.77,15.4,Yes,End,Visitor,68,No,Not Paid,4,"Audio Bad, Pace Too Fast, Sales Too Pushy"
+U000679,25-34,Douyin (TikTok China),iOS,0.58,11.7,No,Sales_Pitch,Visitor,62,No,Not Paid,6,"Too Expensive, Sales Too Pushy, Content Too Basic"
+U000680,25-34,WeChat Channels (视频号),Android,0.65,13.0,No,Sales_Pitch,Visitor,66,No,Not Paid,6,Hard to Follow
+U000681,25-34,WeChat Moments (朋友圈),PC,0.93,18.7,Yes,Sales_Pitch,Registered,97,Yes,Not Paid,2,"Not Enough Examples, Sales Too Pushy, Need More Support"
+U000682,18-24,WeChat Moments (朋友圈),iOS,0.85,17.1,No,End,Registered,97,Yes,Not Paid,6,"Hard to Follow, Sales Too Pushy, Not Enough Examples"
+U000683,35-44,WeChat Channels (视频号),PC,0.87,17.4,Yes,End,Registered,94,Yes,Not Paid,8,Sales Too Pushy
+U000684,25-34,WeChat Moments (朋友圈),iOS,0.98,19.5,No,End,Registered,100,Yes,Paid,9,Easy to Follow
+U000685,25-34,Douyin (TikTok China),PC,0.44,8.9,No,Middle,Registered,62,No,Not Paid,6,Instructor Boring
+U000686,35-44,Douyin (TikTok China),iOS,0.8,15.9,Yes,End,Registered,90,Yes,Not Paid,7,"Need More Support, Content Too Basic"
+U000687,18-24,Douyin (TikTok China),iOS,0.76,15.1,No,Sales_Pitch,Visitor,72,No,Not Paid,4,Too Expensive
+U000688,25-34,Douyin (TikTok China),Android,0.91,18.1,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,"Sales Too Pushy, Pace Too Fast, Instructor Boring"
+U000689,35-44,WeChat Moments (朋友圈),iOS,0.99,19.7,No,End,Registered,100,Yes,Paid,10,Good Instructor
+U000690,35-44,WeChat Channels (视频号),Android,0.91,18.2,No,Sales_Pitch,Registered,100,Yes,Not Paid,4,Instructor Boring
+U000691,25-34,WeChat Channels (视频号),iOS,0.31,6.2,No,Intro,Visitor,47,No,Not Paid,6,Not Enough Examples
+U000692,35-44,Douyin (TikTok China),Android,0.4,7.9,No,Middle,Registered,60,No,Not Paid,3,"Too Expensive, Not Enough Examples"
+U000693,35-44,Douyin (TikTok China),iOS,0.46,9.3,Yes,Sales_Pitch,Registered,71,Yes,Not Paid,9,Audio Bad
+U000694,25-34,WeChat Channels (视频号),PC,0.65,12.9,No,Middle,Visitor,66,No,Not Paid,3,"Need More Support, Pace Too Fast, Sales Too Pushy"
+U000695,35-44,Douyin (TikTok China),iOS,0.97,19.3,Yes,End,Registered,99,Yes,Not Paid,7,"Sales Too Pushy, Instructor Boring, Audio Bad"
+U000696,35-44,WeChat Channels (视频号),iOS,0.91,18.2,Yes,Sales_Pitch,Registered,96,Yes,Not Paid,6,"Instructor Boring, Hard to Follow, Content Too Basic"
+U000697,35-44,WeChat Channels (视频号),PC,0.42,8.4,Yes,Sales_Pitch,Registered,69,Yes,Not Paid,1,"Hard to Follow, Sales Too Pushy"
+U000698,35-44,Douyin (TikTok China),iOS,0.34,6.9,No,Intro,Visitor,49,No,Not Paid,7,Too Expensive
+U000699,35-44,WeChat Channels (视频号),Android,0.76,15.3,No,End,Registered,80,No,Not Paid,9,"Instructor Boring, Not Enough Examples, Pace Too Fast"
+U000700,35-44,WeChat Channels (视频号),iOS,0.64,12.8,Yes,Middle,Registered,81,Yes,Not Paid,4,"Hard to Follow, Pace Too Fast, Instructor Boring"
+U000701,18-24,WeChat Moments (朋友圈),iOS,0.83,16.6,No,End,Visitor,76,No,Not Paid,10,"Sales Too Pushy, Instructor Boring"
+U000702,18-24,Douyin (TikTok China),iOS,0.62,12.4,No,Middle,Registered,72,No,Not Paid,6,Content Too Basic
+U000703,25-34,WeChat Channels (视频号),Android,0.77,15.5,No,End,Registered,93,Yes,Not Paid,8,"Content Too Basic, Hard to Follow"
+U000704,18-24,Douyin (TikTok China),Android,0.85,17.1,No,End,Registered,97,Yes,Not Paid,7,"Too Expensive, Audio Bad"
+U000705,18-24,Douyin (TikTok China),iOS,0.42,8.5,Yes,Middle,Registered,69,Yes,Not Paid,2,"Too Expensive, Instructor Boring, Content Too Basic"
+U000706,18-24,Douyin (TikTok China),iOS,0.83,16.6,No,End,Registered,84,No,Not Paid,3,"Hard to Follow, Not Enough Examples, Need More Support"
+U000707,18-24,WeChat Channels (视频号),Android,0.63,12.7,Yes,Middle,Registered,81,Yes,Not Paid,7,"Pace Too Fast, Content Too Basic"
+U000708,18-24,Douyin (TikTok China),Android,0.51,10.2,No,Middle,Registered,78,Yes,Not Paid,6,Audio Bad
+U000709,45-54,Douyin (TikTok China),iOS,0.8,16.0,Yes,Sales_Pitch,Registered,100,Yes,Paid,9,Good Audio
+U000710,35-44,Douyin (TikTok China),iOS,0.64,12.8,No,Middle,Registered,95,Yes,Paid,10,"Good Instructor, Clear Structure"
+U000711,45-54,WeChat Moments (朋友圈),Android,0.67,13.4,Yes,Sales_Pitch,Registered,71,No,Not Paid,3,"Content Too Basic, Audio Bad"
+U000712,25-34,WeChat Channels (视频号),Android,0.87,17.5,Yes,End,Registered,100,Yes,Paid,7,"Want More Examples, Clear Structure"
+U000713,45-54,WeChat Moments (朋友圈),iOS,0.6,12.0,Yes,Middle,Registered,89,Yes,Paid,8,Content Useful
+U000714,25-34,Douyin (TikTok China),iOS,0.73,14.6,Yes,Sales_Pitch,Registered,86,Yes,Not Paid,4,Hard to Follow
+U000715,35-44,WeChat Moments (朋友圈),PC,0.8,16.0,No,End,Visitor,74,No,Not Paid,5,Not Enough Examples
+U000716,18-24,Douyin (TikTok China),Android,0.43,8.6,No,Middle,Visitor,54,No,Not Paid,8,Instructor Boring
+U000717,35-44,WeChat Moments (朋友圈),Android,0.78,15.6,No,End,Registered,93,Yes,Not Paid,8,"Audio Bad, Sales Too Pushy"
+U000718,45-54,WeChat Moments (朋友圈),PC,0.25,5.0,No,Intro,Visitor,44,No,Not Paid,7,"Sales Too Pushy, Content Too Basic, Audio Bad"
+U000719,18-24,Douyin (TikTok China),Android,0.84,16.9,No,Sales_Pitch,Registered,100,Yes,Paid,10,Good Instructor
+U000720,25-34,WeChat Channels (视频号),Android,0.51,10.1,No,Middle,Registered,78,Yes,Not Paid,7,"Hard to Follow, Need More Support"
+U000721,25-34,WeChat Channels (视频号),iOS,0.67,13.4,Yes,Sales_Pitch,Registered,71,No,Not Paid,9,Instructor Boring
+U000722,35-44,WeChat Channels (视频号),iOS,0.78,15.7,No,Sales_Pitch,Registered,81,No,Not Paid,7,"Pace Too Fast, Not Enough Examples, Hard to Follow"
+U000723,45-54,WeChat Channels (视频号),PC,0.73,14.7,No,End,Visitor,70,No,Not Paid,7,Pace Too Fast
+U000724,18-24,WeChat Channels (视频号),Android,0.72,14.4,No,Sales_Pitch,Registered,78,No,Not Paid,7,"Sales Too Pushy, Need More Support"
+U000725,25-34,Douyin (TikTok China),Android,0.95,19.0,No,End,Registered,100,Yes,Paid,10,Good Audio
+U000726,25-34,Douyin (TikTok China),iOS,0.75,15.0,Yes,Sales_Pitch,Registered,87,Yes,Not Paid,5,"Pace Too Fast, Sales Too Pushy"
+U000727,45-54,Douyin (TikTok China),Android,0.37,7.3,Yes,Middle,Registered,66,Yes,Not Paid,3,"Sales Too Pushy, Too Expensive"
+U000728,25-34,WeChat Channels (视频号),Android,0.67,13.4,Yes,Middle,Visitor,63,No,Not Paid,6,"Instructor Boring, Sales Too Pushy, Not Enough Examples"
+U000729,35-44,WeChat Moments (朋友圈),Android,0.6,12.0,No,Middle,Registered,93,Yes,Paid,9,"Easy to Follow, Good Instructor"
+U000730,35-44,WeChat Channels (视频号),iOS,0.8,16.0,No,End,Registered,94,Yes,Not Paid,10,Audio Bad
+U000731,25-34,Douyin (TikTok China),Android,0.98,19.6,No,Sales_Pitch,Registered,92,No,Not Paid,7,"Content Too Basic, Need More Support, Too Expensive"
+U000732,25-34,Douyin (TikTok China),Android,0.36,7.2,Yes,Sales_Pitch,Visitor,46,No,Not Paid,8,"Sales Too Pushy, Hard to Follow, Audio Bad"
+U000733,18-24,Douyin (TikTok China),iOS,0.44,8.9,No,Middle,Visitor,54,No,Not Paid,6,"Too Expensive, Instructor Boring, Need More Support"
+U000734,25-34,Douyin (TikTok China),iOS,0.89,17.8,Yes,Sales_Pitch,Registered,95,Yes,Not Paid,10,"Not Enough Examples, Pace Too Fast"
+U000735,35-44,Douyin (TikTok China),Android,0.2,4.1,No,Intro,Registered,71,Yes,Paid,9,Practical Tips
+U000736,35-44,WeChat Moments (朋友圈),Android,0.56,11.2,No,Middle,Visitor,61,No,Not Paid,6,"Too Expensive, Need More Support, Instructor Boring"
+U000737,18-24,Douyin (TikTok China),Android,0.73,14.6,No,Sales_Pitch,Registered,78,No,Not Paid,9,"Too Expensive, Not Enough Examples, Instructor Boring"
+U000738,25-34,Douyin (TikTok China),Android,0.59,11.8,No,Middle,Registered,82,Yes,Not Paid,6,"Need More Support, Instructor Boring, Too Expensive"
+U000739,18-24,Douyin (TikTok China),iOS,0.86,17.2,No,Sales_Pitch,Registered,85,No,Not Paid,7,Instructor Boring
+U000740,35-44,Douyin (TikTok China),iOS,0.61,12.1,Yes,Sales_Pitch,Visitor,59,No,Not Paid,7,Pace Too Fast
+U000741,35-44,Douyin (TikTok China),iOS,0.92,18.5,No,End,Registered,100,Yes,Not Paid,4,Sales Too Pushy
+U000742,25-34,WeChat Channels (视频号),iOS,0.84,16.8,No,Sales_Pitch,Registered,100,Yes,Paid,10,"Good Instructor, Good Audio"
+U000743,25-34,WeChat Moments (朋友圈),Android,0.99,19.8,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Practical Tips, Content Useful"
+U000744,25-34,Douyin (TikTok China),Android,0.53,10.5,No,Middle,Visitor,59,No,Not Paid,5,"Not Enough Examples, Sales Too Pushy"
+U000745,25-34,WeChat Channels (视频号),Android,0.94,18.8,No,End,Registered,100,Yes,Paid,9,Practical Tips
+U000746,18-24,WeChat Moments (朋友圈),iOS,0.81,16.2,Yes,Sales_Pitch,Registered,91,Yes,Not Paid,7,"Instructor Boring, Need More Support, Sales Too Pushy"
+U000747,18-24,WeChat Channels (视频号),Android,0.83,16.6,Yes,End,Registered,92,Yes,Not Paid,4,"Need More Support, Too Expensive"
+U000748,45-54,WeChat Channels (视频号),PC,0.93,18.7,Yes,End,Registered,97,Yes,Not Paid,3,Too Expensive
+U000749,25-34,WeChat Channels (视频号),Android,0.79,15.7,Yes,End,Registered,99,Yes,Paid,9,"Want More Examples, Practical Tips"
+U000750,35-44,WeChat Channels (视频号),iOS,0.69,13.8,No,Sales_Pitch,Visitor,68,No,Not Paid,7,"Sales Too Pushy, Pace Too Fast"
+U000751,25-34,Douyin (TikTok China),Android,0.53,10.7,No,Sales_Pitch,Registered,67,No,Not Paid,7,"Sales Too Pushy, Audio Bad, Pace Too Fast"
+U000752,25-34,WeChat Channels (视频号),Android,0.82,16.4,No,Sales_Pitch,Registered,95,Yes,Not Paid,4,Instructor Boring
+U000753,25-34,Douyin (TikTok China),Android,0.6,12.1,No,Sales_Pitch,Registered,83,Yes,Not Paid,6,"Too Expensive, Need More Support, Not Enough Examples"
+U000754,25-34,Douyin (TikTok China),Android,0.85,16.9,No,End,Registered,100,Yes,Paid,8,Content Useful
+U000755,25-34,WeChat Channels (视频号),PC,0.99,19.8,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,Pace Too Fast
+U000756,18-24,Douyin (TikTok China),iOS,0.78,15.7,No,End,Visitor,73,No,Not Paid,10,"Need More Support, Hard to Follow"
+U000757,45-54,Douyin (TikTok China),Android,0.71,14.2,No,End,Visitor,69,No,Not Paid,8,"Sales Too Pushy, Pace Too Fast, Not Enough Examples"
+U000758,35-44,WeChat Channels (视频号),iOS,0.63,12.6,Yes,Middle,Visitor,61,No,Not Paid,7,"Instructor Boring, Pace Too Fast"
+U000759,25-34,WeChat Channels (视频号),Android,0.76,15.2,No,Sales_Pitch,Registered,92,Yes,Not Paid,3,"Not Enough Examples, Audio Bad, Need More Support"
+U000760,25-34,WeChat Moments (朋友圈),Android,0.51,10.2,No,Middle,Registered,78,Yes,Not Paid,4,Sales Too Pushy
+U000761,35-44,WeChat Channels (视频号),iOS,0.49,9.8,No,Middle,Visitor,57,No,Not Paid,5,"Sales Too Pushy, Need More Support"
+U000762,25-34,Douyin (TikTok China),iOS,0.62,12.5,No,Middle,Registered,84,Yes,Not Paid,6,"Audio Bad, Pace Too Fast, Too Expensive"
+U000763,25-34,Douyin (TikTok China),Android,0.53,10.7,Yes,Middle,Registered,63,No,Not Paid,7,"Too Expensive, Instructor Boring, Need More Support"
+U000764,25-34,Douyin (TikTok China),Android,0.69,13.8,Yes,Middle,Registered,72,No,Not Paid,6,Sales Too Pushy
+U000765,18-24,WeChat Channels (视频号),Android,0.81,16.1,Yes,End,Registered,100,Yes,Paid,10,Practical Tips
+U000766,25-34,Douyin (TikTok China),iOS,0.78,15.7,Yes,End,Registered,77,No,Not Paid,6,Sales Too Pushy
+U000767,25-34,Douyin (TikTok China),Android,0.58,11.7,No,Sales_Pitch,Registered,82,Yes,Not Paid,3,"Instructor Boring, Hard to Follow, Audio Bad"
+U000768,45-54,WeChat Channels (视频号),Android,0.63,12.6,No,Middle,Registered,85,Yes,Not Paid,5,"Hard to Follow, Too Expensive"
+U000769,35-44,Douyin (TikTok China),Android,0.43,8.7,No,Sales_Pitch,Registered,74,Yes,Not Paid,2,"Hard to Follow, Content Too Basic, Too Expensive"
+U000770,35-44,Douyin (TikTok China),Android,0.26,5.2,Yes,Intro,Registered,60,Yes,Not Paid,5,Not Enough Examples
+U000771,18-24,WeChat Channels (视频号),PC,0.85,17.1,No,End,Registered,85,No,Not Paid,6,"Too Expensive, Hard to Follow"
+U000772,35-44,Douyin (TikTok China),iOS,0.36,7.2,No,Middle,Registered,70,Yes,Not Paid,5,"Too Expensive, Sales Too Pushy"
+U000773,25-34,WeChat Channels (视频号),iOS,0.94,18.9,Yes,Sales_Pitch,Registered,100,Yes,Paid,10,"Easy to Follow, Practical Tips"
+U000774,35-44,WeChat Moments (朋友圈),Android,0.8,16.0,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Easy to Follow, Good Audio"
+U000775,35-44,Douyin (TikTok China),Android,0.6,11.9,Yes,Middle,Visitor,59,No,Not Paid,6,"Pace Too Fast, Sales Too Pushy, Too Expensive"
+U000776,25-34,Douyin (TikTok China),iOS,0.8,16.1,Yes,Sales_Pitch,Registered,90,Yes,Not Paid,10,"Not Enough Examples, Audio Bad, Pace Too Fast"
+U000777,25-34,WeChat Channels (视频号),iOS,0.45,8.9,Yes,Middle,Registered,71,Yes,Not Paid,3,"Audio Bad, Sales Too Pushy, Pace Too Fast"
+U000778,45-54,WeChat Moments (朋友圈),iOS,0.83,16.6,No,End,Registered,96,Yes,Not Paid,5,"Need More Support, Not Enough Examples"
+U000779,25-34,Douyin (TikTok China),iOS,0.65,13.0,No,Sales_Pitch,Registered,74,No,Not Paid,4,"Content Too Basic, Hard to Follow, Pace Too Fast"
+U000780,18-24,Douyin (TikTok China),Android,0.61,12.2,Yes,Sales_Pitch,Registered,80,Yes,Not Paid,6,"Hard to Follow, Too Expensive"
+U000781,35-44,Douyin (TikTok China),Android,0.76,15.2,No,End,Registered,92,Yes,Not Paid,7,Instructor Boring
+U000782,45-54,Douyin (TikTok China),iOS,0.42,8.4,No,Middle,Visitor,53,No,Not Paid,4,"Too Expensive, Need More Support"
+U000783,35-44,Douyin (TikTok China),PC,0.89,17.7,Yes,Sales_Pitch,Registered,83,No,Not Paid,8,"Content Too Basic, Sales Too Pushy"
+U000784,25-34,Douyin (TikTok China),iOS,0.85,16.9,Yes,Sales_Pitch,Registered,93,Yes,Not Paid,6,"Not Enough Examples, Need More Support"
+U000785,25-34,Douyin (TikTok China),iOS,0.77,15.4,Yes,Sales_Pitch,Registered,88,Yes,Not Paid,8,Too Expensive
+U000786,25-34,WeChat Channels (视频号),iOS,0.75,15.0,Yes,Sales_Pitch,Registered,87,Yes,Not Paid,5,"Too Expensive, Sales Too Pushy"
+U000787,25-34,WeChat Channels (视频号),PC,0.65,13.1,Yes,Middle,Registered,82,Yes,Not Paid,8,Sales Too Pushy
+U000788,25-34,Douyin (TikTok China),iOS,0.73,14.5,Yes,End,Registered,86,Yes,Not Paid,4,"Hard to Follow, Sales Too Pushy"
+U000789,25-34,WeChat Channels (视频号),iOS,0.46,9.2,No,Sales_Pitch,Registered,75,Yes,Not Paid,8,"Pace Too Fast, Sales Too Pushy"
+U000790,25-34,Douyin (TikTok China),iOS,0.75,15.0,Yes,End,Registered,75,No,Not Paid,6,"Not Enough Examples, Need More Support"
+U000791,25-34,Douyin (TikTok China),Android,0.62,12.3,Yes,Middle,Registered,68,No,Not Paid,6,Audio Bad
+U000792,35-44,WeChat Channels (视频号),Android,0.83,16.6,Yes,End,Registered,92,Yes,Not Paid,6,"Sales Too Pushy, Need More Support, Too Expensive"
+U000793,18-24,Douyin (TikTok China),Android,0.4,8.0,No,Middle,Visitor,52,No,Not Paid,6,Not Enough Examples
+U000794,25-34,WeChat Channels (视频号),Android,0.65,13.0,No,Sales_Pitch,Registered,86,Yes,Not Paid,6,"Instructor Boring, Pace Too Fast"
+U000795,35-44,WeChat Channels (视频号),Android,0.59,11.8,No,Middle,Registered,71,No,Not Paid,7,Pace Too Fast
+U000796,25-34,WeChat Moments (朋友圈),Android,0.9,17.9,No,End,Registered,100,Yes,Paid,9,Good Instructor
+U000797,25-34,WeChat Channels (视频号),Android,0.93,18.6,No,End,Registered,100,Yes,Paid,10,Good Instructor
+U000798,45-54,WeChat Channels (视频号),PC,0.68,13.7,Yes,Middle,Registered,94,Yes,Paid,8,Good Instructor
+U000799,35-44,Douyin (TikTok China),iOS,0.48,9.5,No,Middle,Registered,76,Yes,Not Paid,8,Instructor Boring
+U000800,25-34,WeChat Moments (朋友圈),PC,0.79,15.8,No,End,Registered,100,Yes,Paid,8,Easy to Follow
+U000801,25-34,Douyin (TikTok China),iOS,0.76,15.2,No,End,Registered,92,Yes,Not Paid,5,"Audio Bad, Hard to Follow, Sales Too Pushy"
+U000802,35-44,WeChat Channels (视频号),PC,0.86,17.1,No,End,Registered,97,Yes,Not Paid,5,Pace Too Fast
+U000803,25-34,WeChat Channels (视频号),iOS,0.85,17.1,Yes,End,Registered,81,No,Not Paid,7,Sales Too Pushy
+U000804,18-24,WeChat Channels (视频号),PC,0.79,15.9,No,End,Registered,82,No,Not Paid,4,"Sales Too Pushy, Too Expensive, Pace Too Fast"
+U000805,35-44,WeChat Channels (视频号),Android,0.85,17.0,Yes,Sales_Pitch,Registered,81,No,Not Paid,6,"Need More Support, Content Too Basic, Not Enough Examples"
+U000806,45-54,Douyin (TikTok China),Android,0.83,16.5,No,End,Registered,95,Yes,Not Paid,6,"Too Expensive, Not Enough Examples, Need More Support"
+U000807,18-24,WeChat Channels (视频号),PC,0.92,18.4,Yes,Sales_Pitch,Registered,100,Yes,Paid,9,Clear Structure
+U000808,45-54,Douyin (TikTok China),Android,0.79,15.7,Yes,End,Registered,99,Yes,Paid,9,Easy to Follow
+U000809,35-44,Douyin (TikTok China),iOS,0.64,12.7,Yes,Sales_Pitch,Registered,81,Yes,Not Paid,7,"Instructor Boring, Too Expensive"
+U000810,35-44,WeChat Moments (朋友圈),PC,0.84,16.9,No,End,Registered,84,No,Not Paid,7,"Content Too Basic, Too Expensive"
+U000811,45-54,WeChat Moments (朋友圈),Android,0.74,14.8,No,Sales_Pitch,Registered,79,No,Not Paid,10,Not Enough Examples
+U000812,35-44,Douyin (TikTok China),PC,0.39,7.7,Yes,Sales_Pitch,Registered,67,Yes,Not Paid,6,Too Expensive
+U000813,35-44,WeChat Channels (视频号),Android,0.43,8.6,Yes,Middle,Visitor,50,No,Not Paid,5,"Sales Too Pushy, Not Enough Examples"
+U000814,25-34,Douyin (TikTok China),iOS,0.62,12.4,No,Sales_Pitch,Registered,94,Yes,Paid,10,Practical Tips
+U000815,25-34,WeChat Channels (视频号),iOS,0.29,5.7,Yes,Middle,Visitor,42,No,Not Paid,7,Sales Too Pushy
+U000816,45-54,WeChat Moments (朋友圈),iOS,0.83,16.6,Yes,Sales_Pitch,Registered,92,Yes,Not Paid,8,"Content Too Basic, Instructor Boring"
+U000817,35-44,Douyin (TikTok China),Android,0.24,4.9,No,Intro,Registered,63,Yes,Not Paid,10,"Content Too Basic, Sales Too Pushy, Need More Support"
+U000818,25-34,Douyin (TikTok China),Android,0.57,11.5,Yes,Middle,Registered,77,Yes,Not Paid,7,Sales Too Pushy
+U000819,45-54,Douyin (TikTok China),PC,0.25,5.1,No,Intro,Registered,64,Yes,Not Paid,8,"Pace Too Fast, Sales Too Pushy"
+U000820,18-24,WeChat Moments (朋友圈),iOS,0.88,17.7,No,End,Registered,99,Yes,Not Paid,4,"Not Enough Examples, Too Expensive"
+U000821,45-54,Douyin (TikTok China),PC,0.58,11.6,Yes,Middle,Registered,78,Yes,Not Paid,8,"Content Too Basic, Hard to Follow"
+U000822,25-34,WeChat Moments (朋友圈),Android,0.13,2.7,No,Intro,Visitor,37,No,Not Paid,4,"Pace Too Fast, Need More Support, Audio Bad"
+U000823,45-54,Douyin (TikTok China),Android,0.79,15.8,Yes,End,Registered,90,Yes,Not Paid,2,"Instructor Boring, Audio Bad, Need More Support"
+U000824,35-44,Douyin (TikTok China),Android,0.24,4.8,No,Intro,Visitor,43,No,Not Paid,8,Too Expensive
+U000825,35-44,Douyin (TikTok China),iOS,0.9,18.1,No,End,Registered,100,Yes,Not Paid,5,"Too Expensive, Content Too Basic"
+U000826,25-34,Douyin (TikTok China),Android,0.45,9.0,Yes,Middle,Visitor,51,No,Not Paid,3,"Content Too Basic, Hard to Follow, Instructor Boring"
+U000827,25-34,Douyin (TikTok China),Android,0.73,14.7,No,End,Visitor,70,No,Not Paid,4,Instructor Boring
+U000828,25-34,WeChat Channels (视频号),Android,0.52,10.5,Yes,Middle,Registered,75,Yes,Not Paid,6,Pace Too Fast
+U000829,35-44,Douyin (TikTok China),Android,0.6,12.1,Yes,Middle,Visitor,59,No,Not Paid,5,"Need More Support, Content Too Basic, Sales Too Pushy"
+U000830,35-44,Douyin (TikTok China),Android,0.58,11.5,No,Middle,Visitor,62,No,Not Paid,7,"Pace Too Fast, Instructor Boring, Need More Support"
+U000831,25-34,WeChat Channels (视频号),Android,0.97,19.3,No,Sales_Pitch,Registered,100,Yes,Paid,10,Practical Tips
+U000832,25-34,Douyin (TikTok China),iOS,0.84,16.8,Yes,End,Registered,92,Yes,Not Paid,8,"Too Expensive, Instructor Boring, Audio Bad"
+U000833,25-34,WeChat Channels (视频号),iOS,0.72,14.4,Yes,Sales_Pitch,Visitor,66,No,Not Paid,7,"Not Enough Examples, Instructor Boring, Audio Bad"
+U000834,25-34,Douyin (TikTok China),PC,0.91,18.2,Yes,Sales_Pitch,Registered,100,Yes,Paid,8,Clear Structure
+U000835,45-54,Douyin (TikTok China),Android,0.55,11.0,No,Sales_Pitch,Registered,80,Yes,Not Paid,8,"Too Expensive, Instructor Boring, Hard to Follow"
+U000836,35-44,WeChat Channels (视频号),Android,0.7,14.1,No,Sales_Pitch,Registered,99,Yes,Paid,10,"Good Instructor, Content Useful"
+U000837,18-24,WeChat Moments (朋友圈),Android,0.64,12.7,Yes,Middle,Registered,69,No,Not Paid,5,"Not Enough Examples, Too Expensive, Pace Too Fast"
+U000838,35-44,Douyin (TikTok China),iOS,0.78,15.7,Yes,End,Visitor,69,No,Not Paid,7,"Not Enough Examples, Instructor Boring, Audio Bad"
+U000839,18-24,Douyin (TikTok China),Android,0.91,18.1,Yes,End,Registered,100,Yes,Paid,7,Good Instructor
+U000840,25-34,Douyin (TikTok China),Android,0.72,14.5,Yes,End,Registered,96,Yes,Paid,10,Good Instructor
+U000841,35-44,WeChat Channels (视频号),iOS,0.9,17.9,Yes,Sales_Pitch,Registered,95,Yes,Not Paid,6,"Audio Bad, Hard to Follow, Not Enough Examples"
+U000842,35-44,Douyin (TikTok China),Android,0.81,16.2,No,End,Registered,94,Yes,Not Paid,6,"Sales Too Pushy, Too Expensive"
+U000843,25-34,WeChat Moments (朋友圈),iOS,0.78,15.5,No,End,Visitor,73,No,Not Paid,10,Hard to Follow
+U000844,25-34,Douyin (TikTok China),Android,0.61,12.2,No,Sales_Pitch,Registered,71,No,Not Paid,10,Instructor Boring
+U000845,25-34,Douyin (TikTok China),Android,0.42,8.3,No,Middle,Registered,61,No,Not Paid,7,"Content Too Basic, Need More Support, Audio Bad"
+U000846,25-34,Douyin (TikTok China),Android,0.84,16.9,No,End,Registered,84,No,Not Paid,5,"Instructor Boring, Need More Support"
+U000847,35-44,WeChat Channels (视频号),Android,0.56,11.3,No,Middle,Registered,81,Yes,Not Paid,10,"Too Expensive, Not Enough Examples, Audio Bad"
+U000848,45-54,Douyin (TikTok China),iOS,0.64,12.8,No,Middle,Registered,85,Yes,Not Paid,9,"Not Enough Examples, Instructor Boring"
+U000849,25-34,Douyin (TikTok China),Android,0.55,11.0,No,Middle,Registered,68,No,Not Paid,2,"Instructor Boring, Too Expensive, Audio Bad"
+U000850,35-44,WeChat Channels (视频号),iOS,0.94,18.9,No,End,Registered,100,Yes,Not Paid,7,"Instructor Boring, Sales Too Pushy"
+U000851,35-44,Douyin (TikTok China),PC,0.55,10.9,Yes,Middle,Visitor,56,No,Not Paid,5,Content Too Basic
+U000852,35-44,Douyin (TikTok China),Android,0.71,14.2,No,End,Registered,89,Yes,Not Paid,4,Too Expensive
+U000853,25-34,WeChat Channels (视频号),iOS,0.93,18.7,Yes,End,Registered,97,Yes,Not Paid,6,"Audio Bad, Sales Too Pushy"
+U000854,35-44,WeChat Channels (视频号),PC,0.89,17.8,Yes,End,Registered,95,Yes,Not Paid,7,"Content Too Basic, Too Expensive"
+U000855,45-54,Douyin (TikTok China),iOS,0.52,10.5,No,Sales_Pitch,Registered,79,Yes,Not Paid,6,"Audio Bad, Need More Support, Not Enough Examples"
+U000856,25-34,Douyin (TikTok China),iOS,0.57,11.3,No,Middle,Visitor,61,No,Not Paid,5,Not Enough Examples
+U000857,25-34,WeChat Channels (视频号),Android,0.25,5.1,Yes,Middle,Visitor,40,No,Not Paid,5,"Hard to Follow, Sales Too Pushy, Content Too Basic"
+U000858,25-34,Douyin (TikTok China),PC,0.43,8.6,No,Sales_Pitch,Registered,74,Yes,Not Paid,3,"Instructor Boring, Content Too Basic, Pace Too Fast"
+U000859,25-34,WeChat Channels (视频号),PC,0.86,17.2,No,End,Registered,97,Yes,Not Paid,2,"Instructor Boring, Pace Too Fast, Need More Support"
+U000860,25-34,Douyin (TikTok China),iOS,0.56,11.1,Yes,Middle,Visitor,57,No,Not Paid,7,"Content Too Basic, Pace Too Fast"
+U000861,25-34,Douyin (TikTok China),iOS,0.33,6.5,Yes,Intro,Registered,52,No,Not Paid,4,"Need More Support, Instructor Boring"
+U000862,35-44,Douyin (TikTok China),iOS,0.8,16.1,No,Sales_Pitch,Registered,100,Yes,Paid,9,Want More Examples
+U000863,25-34,WeChat Channels (视频号),iOS,0.54,10.8,No,Middle,Registered,80,Yes,Not Paid,6,Audio Bad
+U000864,18-24,WeChat Channels (视频号),Android,0.89,17.8,Yes,End,Visitor,75,No,Not Paid,8,Instructor Boring
+U000865,25-34,Douyin (TikTok China),PC,0.48,9.6,Yes,Sales_Pitch,Visitor,52,No,Not Paid,5,"Instructor Boring, Sales Too Pushy"
+U000866,18-24,WeChat Moments (朋友圈),Android,0.81,16.1,No,Sales_Pitch,Registered,100,Yes,Paid,9,Good Instructor
+U000867,45-54,WeChat Channels (视频号),Android,0.66,13.2,No,Middle,Registered,86,Yes,Not Paid,5,"Instructor Boring, Pace Too Fast, Sales Too Pushy"
+U000868,35-44,Douyin (TikTok China),Android,0.67,13.3,No,Sales_Pitch,Visitor,67,No,Not Paid,9,Too Expensive
+U000869,25-34,WeChat Moments (朋友圈),Android,0.5,10.0,Yes,Middle,Registered,73,Yes,Not Paid,6,"Audio Bad, Too Expensive, Content Too Basic"
+U000870,25-34,Douyin (TikTok China),Android,0.53,10.6,No,Middle,Visitor,59,No,Not Paid,10,Need More Support
+U000871,18-24,WeChat Moments (朋友圈),PC,0.93,18.7,No,End,Registered,100,Yes,Paid,9,"Good Instructor, Good Audio"
+U000872,35-44,WeChat Channels (视频号),iOS,0.95,19.0,Yes,End,Visitor,78,No,Not Paid,6,"Pace Too Fast, Too Expensive, Sales Too Pushy"
+U000873,25-34,Douyin (TikTok China),iOS,0.91,18.3,No,End,Registered,100,Yes,Not Paid,3,"Sales Too Pushy, Hard to Follow"
+U000874,35-44,WeChat Channels (视频号),PC,0.87,17.5,No,End,Registered,98,Yes,Not Paid,7,"Pace Too Fast, Hard to Follow"
+U000875,25-34,WeChat Channels (视频号),Android,0.88,17.6,Yes,Sales_Pitch,Registered,95,Yes,Not Paid,6,Instructor Boring
+U000876,25-34,WeChat Channels (视频号),Android,0.72,14.3,No,End,Visitor,69,No,Not Paid,6,Too Expensive
+U000877,35-44,WeChat Channels (视频号),iOS,0.65,13.1,Yes,Middle,Registered,82,Yes,Not Paid,6,"Pace Too Fast, Not Enough Examples"
+U000878,18-24,WeChat Channels (视频号),iOS,0.74,14.8,No,End,Registered,91,Yes,Not Paid,8,Need More Support
+U000879,18-24,WeChat Channels (视频号),iOS,0.75,15.0,No,End,Registered,91,Yes,Not Paid,5,"Instructor Boring, Pace Too Fast"
+U000880,18-24,Douyin (TikTok China),Android,0.86,17.2,No,End,Registered,97,Yes,Not Paid,7,"Hard to Follow, Need More Support"
+U000881,18-24,WeChat Moments (朋友圈),iOS,0.76,15.2,No,Sales_Pitch,Registered,92,Yes,Not Paid,4,"Not Enough Examples, Sales Too Pushy"
+U000882,18-24,WeChat Channels (视频号),iOS,0.64,12.8,No,Middle,Registered,85,Yes,Not Paid,9,"Hard to Follow, Content Too Basic, Not Enough Examples"
+U000883,18-24,WeChat Channels (视频号),iOS,0.88,17.6,Yes,End,Registered,100,Yes,Paid,9,"Practical Tips, Want More Examples"
+U000884,35-44,Douyin (TikTok China),iOS,0.36,7.3,No,Sales_Pitch,Registered,70,Yes,Not Paid,4,"Audio Bad, Sales Too Pushy, Content Too Basic"
+U000885,25-34,Douyin (TikTok China),Android,0.42,8.3,Yes,Middle,Visitor,49,No,Not Paid,3,Content Too Basic
+U000886,18-24,Douyin (TikTok China),Android,0.94,18.9,No,End,Registered,100,Yes,Not Paid,4,Need More Support
+U000887,25-34,Douyin (TikTok China),iOS,0.83,16.6,Yes,Sales_Pitch,Registered,92,Yes,Not Paid,6,"Instructor Boring, Content Too Basic"
+U000888,35-44,WeChat Moments (朋友圈),Android,0.36,7.2,No,Middle,Visitor,50,No,Not Paid,4,"Not Enough Examples, Need More Support, Instructor Boring"
+U000889,35-44,Douyin (TikTok China),iOS,0.59,11.8,No,Sales_Pitch,Registered,70,No,Not Paid,5,Audio Bad
+U000890,45-54,Douyin (TikTok China),iOS,0.42,8.5,No,Sales_Pitch,Visitor,53,No,Not Paid,10,"Too Expensive, Not Enough Examples"
+U000891,35-44,WeChat Moments (朋友圈),iOS,0.98,19.6,No,End,Registered,100,Yes,Not Paid,8,"Not Enough Examples, Pace Too Fast"
+U000892,25-34,WeChat Moments (朋友圈),Android,0.92,18.4,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,"Audio Bad, Not Enough Examples"
+U000893,18-24,WeChat Channels (视频号),PC,0.31,6.2,Yes,Middle,Visitor,43,No,Not Paid,7,"Sales Too Pushy, Content Too Basic, Audio Bad"
+U000894,35-44,WeChat Channels (视频号),iOS,0.99,19.7,Yes,End,Registered,100,Yes,Paid,8,Want More Examples
+U000895,35-44,Douyin (TikTok China),Android,0.68,13.5,Yes,Sales_Pitch,Registered,83,Yes,Not Paid,7,"Not Enough Examples, Content Too Basic"
+U000896,45-54,Douyin (TikTok China),Android,0.45,9.0,Yes,Middle,Visitor,51,No,Not Paid,4,Pace Too Fast
+U000897,25-34,Douyin (TikTok China),iOS,0.89,17.8,No,End,Visitor,79,No,Not Paid,6,"Too Expensive, Audio Bad, Hard to Follow"
+U000898,25-34,Douyin (TikTok China),iOS,0.79,15.8,No,End,Registered,100,Yes,Paid,8,Easy to Follow
+U000899,45-54,WeChat Moments (朋友圈),Android,0.94,18.8,No,End,Registered,100,Yes,Not Paid,8,Content Too Basic
+U000900,25-34,WeChat Channels (视频号),Android,0.92,18.4,Yes,End,Visitor,77,No,Not Paid,8,"Sales Too Pushy, Pace Too Fast, Not Enough Examples"
+U000901,25-34,Douyin (TikTok China),iOS,0.74,14.7,No,End,Registered,78,No,Not Paid,7,Too Expensive
+U000902,35-44,Douyin (TikTok China),iOS,0.94,18.9,No,End,Registered,100,Yes,Not Paid,4,"Sales Too Pushy, Hard to Follow"
+U000903,35-44,Douyin (TikTok China),PC,0.59,11.7,Yes,Middle,Registered,78,Yes,Not Paid,7,"Sales Too Pushy, Pace Too Fast, Instructor Boring"
+U000904,35-44,WeChat Channels (视频号),Android,0.69,13.9,No,Middle,Registered,98,Yes,Paid,8,Good Audio
+U000905,25-34,WeChat Channels (视频号),Android,0.69,13.8,No,Middle,Visitor,68,No,Not Paid,5,"Content Too Basic, Pace Too Fast"
+U000906,25-34,WeChat Channels (视频号),iOS,0.75,15.0,No,End,Visitor,71,No,Not Paid,3,Hard to Follow
+U000907,18-24,WeChat Channels (视频号),Android,0.69,13.9,No,Middle,Registered,88,Yes,Not Paid,7,"Pace Too Fast, Hard to Follow, Not Enough Examples"
+U000908,35-44,WeChat Channels (视频号),Android,0.85,17.1,No,Sales_Pitch,Visitor,77,No,Not Paid,6,"Need More Support, Hard to Follow, Audio Bad"
+U000909,18-24,WeChat Channels (视频号),Android,0.55,10.9,No,Sales_Pitch,Visitor,60,No,Not Paid,6,"Need More Support, Too Expensive"
+U000910,35-44,WeChat Channels (视频号),PC,0.84,16.8,No,End,Registered,96,Yes,Not Paid,9,"Sales Too Pushy, Content Too Basic"
+U000911,25-34,WeChat Moments (朋友圈),PC,0.47,9.3,No,Middle,Registered,76,Yes,Not Paid,5,"Instructor Boring, Need More Support"
+U000912,25-34,Douyin (TikTok China),iOS,0.65,13.0,Yes,Middle,Visitor,62,No,Not Paid,8,"Not Enough Examples, Need More Support, Hard to Follow"
+U000913,45-54,WeChat Channels (视频号),Android,0.71,14.2,No,End,Registered,89,Yes,Not Paid,6,"Content Too Basic, Sales Too Pushy, Pace Too Fast"
+U000914,18-24,Douyin (TikTok China),Android,0.92,18.3,Yes,Sales_Pitch,Registered,100,Yes,Paid,8,Easy to Follow
+U000915,18-24,WeChat Channels (视频号),Android,0.78,15.7,No,Sales_Pitch,Registered,93,Yes,Not Paid,7,Instructor Boring
+U000916,35-44,WeChat Channels (视频号),iOS,0.33,6.5,No,Intro,Visitor,48,No,Not Paid,6,Hard to Follow
+U000917,45-54,Douyin (TikTok China),Android,0.68,13.7,Yes,Sales_Pitch,Registered,72,No,Not Paid,8,Too Expensive
+U000918,25-34,WeChat Channels (视频号),Android,0.58,11.5,Yes,Sales_Pitch,Visitor,58,No,Not Paid,5,Sales Too Pushy
+U000919,25-34,Douyin (TikTok China),iOS,0.76,15.2,No,End,Registered,92,Yes,Not Paid,6,Too Expensive
+U000920,25-34,Douyin (TikTok China),Android,0.39,7.8,No,Middle,Visitor,51,No,Not Paid,6,"Sales Too Pushy, Need More Support, Too Expensive"
+U000921,35-44,WeChat Channels (视频号),iOS,0.88,17.5,No,End,Visitor,78,No,Not Paid,4,"Too Expensive, Instructor Boring, Hard to Follow"
+U000922,35-44,WeChat Channels (视频号),PC,0.8,15.9,No,End,Registered,94,Yes,Not Paid,5,"Pace Too Fast, Instructor Boring, Need More Support"
+U000923,45-54,Douyin (TikTok China),Android,0.54,10.8,Yes,Middle,Visitor,56,No,Not Paid,6,Sales Too Pushy
+U000924,35-44,WeChat Moments (朋友圈),Android,0.74,14.7,No,End,Visitor,70,No,Not Paid,6,"Too Expensive, Content Too Basic, Instructor Boring"
+U000925,35-44,WeChat Moments (朋友圈),Android,0.85,16.9,No,Sales_Pitch,Registered,100,Yes,Paid,10,Want More Examples
+U000926,45-54,WeChat Channels (视频号),Android,0.73,14.7,No,End,Registered,90,Yes,Not Paid,8,"Hard to Follow, Sales Too Pushy, Pace Too Fast"
+U000927,25-34,Douyin (TikTok China),PC,0.72,14.5,Yes,End,Visitor,66,No,Not Paid,7,Audio Bad
+U000928,45-54,Douyin (TikTok China),Android,0.77,15.5,No,Sales_Pitch,Visitor,73,No,Not Paid,10,"Sales Too Pushy, Audio Bad, Too Expensive"
+U000929,25-34,Douyin (TikTok China),Android,0.85,16.9,No,End,Registered,100,Yes,Paid,10,"Content Useful, Practical Tips"
+U000930,35-44,WeChat Moments (朋友圈),iOS,0.84,16.9,Yes,End,Registered,92,Yes,Not Paid,8,Hard to Follow
+U000931,18-24,Douyin (TikTok China),Android,0.49,9.8,No,Middle,Registered,65,No,Not Paid,8,"Need More Support, Hard to Follow, Instructor Boring"
+U000932,25-34,Douyin (TikTok China),Android,0.82,16.3,No,Sales_Pitch,Registered,95,Yes,Not Paid,8,"Not Enough Examples, Pace Too Fast, Instructor Boring"
+U000933,18-24,WeChat Moments (朋友圈),iOS,0.97,19.4,No,End,Registered,100,Yes,Not Paid,5,Need More Support
+U000934,25-34,Douyin (TikTok China),Android,0.46,9.2,No,Sales_Pitch,Registered,75,Yes,Not Paid,5,"Content Too Basic, Audio Bad"
+U000935,35-44,Douyin (TikTok China),iOS,0.81,16.3,No,End,Registered,100,Yes,Paid,10,"Content Useful, Good Instructor"
+U000936,25-34,Douyin (TikTok China),Android,0.71,14.2,Yes,Sales_Pitch,Visitor,65,No,Not Paid,5,"Not Enough Examples, Sales Too Pushy, Too Expensive"
+U000937,25-34,WeChat Channels (视频号),iOS,0.33,6.5,No,Middle,Registered,68,Yes,Not Paid,2,Audio Bad
+U000938,25-34,WeChat Moments (朋友圈),iOS,0.85,17.0,No,End,Registered,100,Yes,Paid,10,Practical Tips
+U000939,25-34,Douyin (TikTok China),Android,0.23,4.7,No,Intro,Registered,63,Yes,Not Paid,7,"Instructor Boring, Too Expensive, Audio Bad"
+U000940,45-54,Douyin (TikTok China),PC,0.5,9.9,Yes,Middle,Visitor,53,No,Not Paid,7,"Not Enough Examples, Hard to Follow"
+U000941,35-44,Douyin (TikTok China),PC,0.89,17.8,No,End,Visitor,79,No,Not Paid,10,Content Too Basic
+U000942,18-24,WeChat Channels (视频号),Android,0.77,15.4,Yes,End,Visitor,68,No,Not Paid,5,"Instructor Boring, Content Too Basic"
+U000943,25-34,WeChat Channels (视频号),Android,0.68,13.6,No,Sales_Pitch,Registered,87,Yes,Not Paid,7,Not Enough Examples
+U000944,45-54,WeChat Channels (视频号),Android,0.88,17.7,No,End,Visitor,79,No,Not Paid,5,"Too Expensive, Sales Too Pushy, Instructor Boring"
+U000945,18-24,Douyin (TikTok China),iOS,0.63,12.6,No,Middle,Registered,85,Yes,Not Paid,5,"Pace Too Fast, Need More Support"
+U000946,18-24,WeChat Channels (视频号),Android,0.84,16.8,Yes,End,Registered,92,Yes,Not Paid,8,"Instructor Boring, Need More Support, Audio Bad"
+U000947,25-34,WeChat Channels (视频号),iOS,0.53,10.7,No,Middle,Registered,79,Yes,Not Paid,6,Need More Support
+U000948,25-34,Douyin (TikTok China),iOS,0.77,15.4,No,Sales_Pitch,Registered,92,Yes,Not Paid,7,"Audio Bad, Not Enough Examples, Pace Too Fast"
+U000949,25-34,WeChat Channels (视频号),iOS,0.97,19.3,No,Sales_Pitch,Registered,100,Yes,Not Paid,5,"Audio Bad, Pace Too Fast"
+U000950,25-34,WeChat Channels (视频号),Android,0.94,18.8,Yes,End,Visitor,78,No,Not Paid,6,"Audio Bad, Sales Too Pushy, Hard to Follow"
+U000951,35-44,Douyin (TikTok China),iOS,0.55,10.9,No,Middle,Registered,80,Yes,Not Paid,7,"Pace Too Fast, Too Expensive"
+U000952,25-34,WeChat Channels (视频号),Android,0.35,7.0,Yes,Middle,Visitor,45,No,Not Paid,9,"Sales Too Pushy, Too Expensive, Need More Support"
+U000953,25-34,WeChat Channels (视频号),iOS,0.33,6.7,No,Intro,Visitor,48,No,Not Paid,5,"Pace Too Fast, Hard to Follow, Content Too Basic"
+U000954,35-44,WeChat Channels (视频号),Android,0.65,13.0,Yes,Middle,Registered,82,Yes,Not Paid,8,"Pace Too Fast, Sales Too Pushy, Hard to Follow"
+U000955,25-34,Douyin (TikTok China),iOS,0.53,10.6,Yes,Middle,Registered,75,Yes,Not Paid,10,"Instructor Boring, Pace Too Fast, Sales Too Pushy"
+U000956,25-34,Douyin (TikTok China),iOS,0.74,14.7,No,End,Registered,79,No,Not Paid,1,"Audio Bad, Instructor Boring, Sales Too Pushy"
+U000957,18-24,WeChat Moments (朋友圈),Android,0.98,19.6,No,End,Registered,92,No,Not Paid,5,"Hard to Follow, Too Expensive, Pace Too Fast"
+U000958,18-24,WeChat Channels (视频号),iOS,0.7,13.9,No,Middle,Registered,88,Yes,Not Paid,5,"Content Too Basic, Need More Support, Not Enough Examples"
+U000959,25-34,WeChat Moments (朋友圈),Android,0.99,19.7,No,Sales_Pitch,Registered,100,Yes,Paid,10,Good Instructor
+U000960,18-24,Douyin (TikTok China),iOS,0.39,7.8,Yes,Middle,Registered,67,Yes,Not Paid,4,Too Expensive
+U000961,25-34,WeChat Channels (视频号),Android,0.81,16.3,Yes,End,Registered,91,Yes,Not Paid,5,"Pace Too Fast, Instructor Boring"
+U000962,35-44,WeChat Moments (朋友圈),Android,0.59,11.9,No,Middle,Registered,83,Yes,Not Paid,6,Not Enough Examples
+U000963,25-34,WeChat Moments (朋友圈),PC,0.9,18.1,No,Sales_Pitch,Registered,88,No,Not Paid,3,"Not Enough Examples, Instructor Boring, Need More Support"
+U000964,25-34,WeChat Channels (视频号),iOS,0.43,8.6,Yes,Sales_Pitch,Visitor,50,No,Not Paid,5,"Content Too Basic, Hard to Follow"
+U000965,18-24,Douyin (TikTok China),iOS,0.5,9.9,Yes,Middle,Visitor,53,No,Not Paid,5,"Hard to Follow, Too Expensive"
+U000966,25-34,WeChat Channels (视频号),Android,0.84,16.7,Yes,End,Registered,92,Yes,Not Paid,7,Content Too Basic
+U000967,18-24,Douyin (TikTok China),Android,0.75,15.0,No,End,Visitor,71,No,Not Paid,5,"Content Too Basic, Not Enough Examples, Sales Too Pushy"
+U000968,25-34,WeChat Channels (视频号),PC,0.47,9.3,No,Sales_Pitch,Registered,64,No,Not Paid,6,Pace Too Fast
+U000969,35-44,Douyin (TikTok China),PC,0.98,19.7,No,End,Visitor,84,No,Not Paid,6,"Not Enough Examples, Sales Too Pushy"
+U000970,25-34,WeChat Channels (视频号),PC,0.88,17.5,No,Sales_Pitch,Registered,98,Yes,Not Paid,6,"Pace Too Fast, Need More Support"
+U000971,25-34,Douyin (TikTok China),Android,0.84,16.8,No,Sales_Pitch,Registered,96,Yes,Not Paid,5,Content Too Basic
+U000972,35-44,Douyin (TikTok China),iOS,0.79,15.7,No,End,Registered,93,Yes,Not Paid,3,"Audio Bad, Content Too Basic, Sales Too Pushy"
+U000973,25-34,WeChat Moments (朋友圈),iOS,0.58,11.6,No,Middle,Registered,92,Yes,Paid,9,"Easy to Follow, Good Instructor"
+U000974,45-54,WeChat Moments (朋友圈),Android,0.69,13.7,No,Middle,Registered,98,Yes,Paid,8,"Good Audio, Want More Examples"
+U000975,35-44,WeChat Channels (视频号),Android,0.75,15.0,No,End,Registered,100,Yes,Paid,8,Easy to Follow
+U000976,35-44,Douyin (TikTok China),Android,0.56,11.1,No,Middle,Registered,81,Yes,Not Paid,4,Not Enough Examples
+U000977,18-24,WeChat Channels (视频号),iOS,0.59,11.8,No,Middle,Visitor,63,No,Not Paid,7,"Sales Too Pushy, Hard to Follow"
+U000978,18-24,Douyin (TikTok China),iOS,0.59,11.8,Yes,Middle,Registered,67,No,Not Paid,8,Sales Too Pushy
+U000979,35-44,WeChat Channels (视频号),Android,0.79,15.8,Yes,End,Visitor,69,No,Not Paid,6,"Content Too Basic, Pace Too Fast, Sales Too Pushy"
+U000980,18-24,Douyin (TikTok China),PC,0.82,16.4,No,Sales_Pitch,Registered,95,Yes,Not Paid,3,Sales Too Pushy
+U000981,35-44,WeChat Moments (朋友圈),iOS,0.97,19.4,Yes,End,Registered,100,Yes,Paid,8,Want More Examples
+U000982,25-34,Douyin (TikTok China),PC,0.72,14.4,Yes,End,Registered,74,No,Not Paid,6,"Need More Support, Instructor Boring, Not Enough Examples"
+U000983,35-44,WeChat Moments (朋友圈),iOS,0.83,16.7,No,Sales_Pitch,Registered,100,Yes,Paid,8,"Practical Tips, Easy to Follow"
+U000984,45-54,Douyin (TikTok China),Android,0.66,13.2,No,Middle,Registered,86,Yes,Not Paid,5,"Audio Bad, Sales Too Pushy"
+U000985,35-44,Douyin (TikTok China),Android,0.61,12.2,No,Middle,Visitor,64,No,Not Paid,7,"Instructor Boring, Sales Too Pushy, Too Expensive"
+U000986,25-34,WeChat Moments (朋友圈),iOS,0.99,19.8,No,Sales_Pitch,Registered,100,Yes,Not Paid,4,"Hard to Follow, Content Too Basic"
+U000987,18-24,Douyin (TikTok China),Android,0.43,8.6,No,Middle,Visitor,54,No,Not Paid,5,"Instructor Boring, Too Expensive, Sales Too Pushy"
+U000988,25-34,WeChat Moments (朋友圈),iOS,0.96,19.1,No,End,Registered,100,Yes,Paid,8,"Easy to Follow, Good Audio"
+U000989,25-34,WeChat Channels (视频号),Android,0.46,9.2,Yes,Middle,Registered,71,Yes,Not Paid,7,Pace Too Fast
+U000990,35-44,Douyin (TikTok China),PC,0.39,7.7,No,Middle,Registered,59,No,Not Paid,7,"Sales Too Pushy, Hard to Follow, Not Enough Examples"
+U000991,35-44,WeChat Channels (视频号),Android,0.93,18.6,No,End,Registered,100,Yes,Not Paid,9,"Content Too Basic, Need More Support"
+U000992,25-34,Douyin (TikTok China),iOS,0.59,11.8,Yes,Middle,Registered,79,Yes,Not Paid,5,"Need More Support, Content Too Basic, Hard to Follow"
+U000993,25-34,Douyin (TikTok China),PC,0.54,10.9,Yes,Middle,Visitor,56,No,Not Paid,5,"Too Expensive, Pace Too Fast"
+U000994,18-24,Douyin (TikTok China),iOS,0.76,15.1,No,End,Registered,92,Yes,Not Paid,2,Need More Support
+U000995,35-44,Douyin (TikTok China),Android,0.56,11.3,No,Middle,Visitor,61,No,Not Paid,4,"Too Expensive, Not Enough Examples"
+U000996,25-34,WeChat Moments (朋友圈),PC,0.57,11.5,No,Sales_Pitch,Visitor,62,No,Not Paid,10,Too Expensive
+U000997,25-34,Douyin (TikTok China),Android,0.5,10.1,No,Sales_Pitch,Registered,88,Yes,Paid,10,"Want More Examples, Clear Structure"
+U000998,35-44,Douyin (TikTok China),iOS,0.78,15.5,Yes,End,Registered,77,No,Not Paid,5,"Sales Too Pushy, Too Expensive, Need More Support"
+U000999,25-34,Douyin (TikTok China),iOS,0.46,9.2,Yes,Middle,Visitor,51,No,Not Paid,9,"Not Enough Examples, Need More Support, Too Expensive"
+U001000,35-44,Douyin (TikTok China),Android,0.35,7.1,No,Sales_Pitch,Visitor,49,No,Not Paid,8,"Hard to Follow, Audio Bad, Instructor Boring"
