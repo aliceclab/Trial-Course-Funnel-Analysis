@@ -18,16 +18,16 @@
 
 ### Page 1: Funnel Overview
 [cite_start]Focuses on overall health and identifying where the largest numeric loss occurs[cite: 270].
-![Funnel Overview](Screenshot 2026-01-30.png)
+![Funnel Overview](screenshots/Page1.png)
 
 ### Page 2: Acquisition Analysis
 [cite_start]Compares channel traffic volume against conversion quality[cite: 278, 279].
-![Acquisition Analysis](Screenshots/Page2.png)
+![Acquisition Analysis](screenshots/Page2.png)
 
 ### Page 3: Engagement & VoC
 [cite_start]Connects "what users do" (watch time) with "what they say" (feedback)[cite: 288].
-![Engagement and VoC](Screenshots/Page3.png)
+![Engagement and VoC](screenshots/Page3.png)
 
 ### Page 4: Actions & Recommendations
 [cite_start]Summarizes findings and provides a high-intent follow-up list for targeted outreach[cite: 302, 308].
-![Actions and Recommendations](Screenshots/Page4.png)
+![Actions and Recommendations](screenshots/Page4.png)
